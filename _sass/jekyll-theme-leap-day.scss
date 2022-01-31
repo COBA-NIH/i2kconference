@@ -12,7 +12,7 @@ body {
   color:#2b2b2b;
   font-weight:300;
   margin: 0px;
-  padding:0px 0 20px 0px;
+  padding:0px 0px 20px 0px;
   background: url(../images/body-background.jpeg) #eae6d1;
 }
 
@@ -22,11 +22,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 20px;
+  margin:0 10px 20px;
 }
 
 h1, h2, h3 {
   line-height:1.1;
+  margin-left: 10px;
 }
 
 h1 {
@@ -359,7 +360,7 @@ nav {
     a {
       color: #666;
 
-      &:hover { color: #999; }
+      &:hover { color: #ED5374; }
     }
 
     // .active {
