@@ -13,7 +13,7 @@ body {
   font-weight:300;
   margin: 0px;
   padding:0px 0 20px 0px;
-  background: url(../images/body-background.png) #eae6d1;
+  background: url(../images/body-background.jpeg) #eae6d1;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -80,7 +80,7 @@ section img {
 }
 
 blockquote {
-  border-left:1px solid #ffcc00;
+  border-left:1px solid #ED5374;
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
@@ -141,10 +141,10 @@ td {
   text-align:left;
   padding:5px 10px;
   border-bottom:1px solid #e5e5e5;
-  border-right: 1px solid #ffcc00;
+  border-right: 1px solid #ED5374;
 
   &:first-child {
-    border-left: 1px solid #ffcc00;
+    border-left: 1px solid #ED5374b;
   }
 }
 
@@ -170,7 +170,7 @@ header {
   right:0;
   width: 100%;
   text-align: center;
-  background: url(../images/background.png) #4276b6;
+  background: url(../images/background.png) #029DB2;
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
   z-index:99;
   -webkit-font-smoothing:antialiased;
@@ -204,31 +204,32 @@ header {
   margin-right:-382px;
   position: fixed;
   top: 115px;
-  background: #ffcc00;
-  border: 1px solid #f0b500;
+  background: #756FB5;
+  border: 1px solid #443D89;
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
   border-radius: 0px 2px 2px 0px;
   padding-right: 10px;
 
   .button {
-    border: 1px solid #dba500;
-    background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
+    border: 1px solid #443D89;
+    background: linear-gradient(#443D89, #6D5ACF);
     border-radius: 2px;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
-    background-color: #FFE788;
+    background-color: #443D89;
     margin-left: 5px;
     padding: 10px 12px;
     margin-top: 6px;
     line-height:14px;
     font-size:14px;
-    color:#333;
+    color:#FFF;
     font-weight: bold;
     display:inline-block;
     text-align:center;
 
     &:hover {
-      background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 136));
-      background-color: #ffeca0;
+      background: linear-gradient(#6D5ACF, #6D5ACF);
+      background-color: #dfbbfb;
+      color: 333;
     }
   }
 
@@ -251,7 +252,7 @@ header {
       float:left;
       line-height:52px;
       font-size:90%;
-      color:#9d7f0d;
+      color:#FFF;
       text-transform:uppercase;
       text-shadow:rgba(#fff, 0.2) 0 1px 0;
     }
