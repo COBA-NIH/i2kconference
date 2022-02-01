@@ -2,122 +2,33 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<div style="display:none"><h1> 2022 Conference</h1></div>
+## About
 
-[Link to another page](./another-page.html).
+Discovery in the life-sciences increasingly relies on quantitative analysis of microscopy images. The 2022 virtual workshop “From Images to Knowledge (I2K)”, to be held from May 6th, 9th and 10th, will therefore focus on in-depth interactive tutorials covering state-of-the-art open source solutions for biological image reconstruction and analysis, as well as social interaction between developers, researchers, and students. It will be a forum to learn about and discuss forward looking strategies for dealing with the ever increasing amount of large and content rich microscopy imagery.
 
-There should be whitespace between paragraphs.
+As all major open source platforms for bioimage analysis will be represented, this will be a great opportunity to learn how to use the best software tools for your research and how to get involved in their development! We will have an exciting number of leaders and rising stars in the field of computational image analysis participating in the workshop, both as tutors and social participants. I2K will therefore be a unique chance to get in touch with them in person.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Topics will include:
 
-# Header 1
+* Bioimage analysis workflows
+* Computer vision and machine learning
+* Handling of big image data
+* Image data annotation and sharing
+* Image data visualisation
+* Image restoration, registration, segmentation, and tracking
+* Smart microscopy
+* Open software engineering
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I2K is for (i) researchers and students who are generating or analysing large and/ or complex image data, (ii) scientists creating tools and methods to solve image analysis problems, and (iii) software engineers who provide and maintain the necessary infrastructure.
+<hr>
+## Format
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+### Webinars
+### Workshops
+### Poster Session
+### Meet your peers
+<hr>
+## Organizers
+<hr>
+## Sponsors
