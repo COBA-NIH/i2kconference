@@ -22,12 +22,12 @@ Topics will include:
 
 I2K is for (i) researchers and students who are generating or analysing large and/ or complex image data, (ii) scientists creating tools and methods to solve image analysis problems, and (iii) software engineers who provide and maintain the necessary infrastructure.
 <hr>
-## Format
+## Program
 
 ### Webinars
 ### Workshops
 ### Poster Session
-### Meet your peers
+
 <hr>
 ## Organizers
 <hr>
