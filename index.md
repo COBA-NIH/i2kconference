@@ -32,3 +32,5 @@ I2K is for (i) researchers and students who are generating or analysing large an
 ## Organizers
 <hr>
 ## Sponsors
+
+<h2><span id="logo"></span></h2>
