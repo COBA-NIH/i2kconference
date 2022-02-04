@@ -51,6 +51,12 @@ h4 {
   text-align:center;
 }
 
+h5 {
+  font-size: 16px;
+  line-height: 24px;
+  line-height:1.1;
+  margin-left: 10px;
+}
 a {
   color:#4276b6;
   font-weight:400;
@@ -374,7 +380,7 @@ nav {
     a {
       color: #666;
 
-      &:hover { color: #FF5733; }
+      &:hover { color: #6D5ACF;font-weight:bold; }
     }
 
     // .active {
