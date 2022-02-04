@@ -5,6 +5,7 @@ layout: default
 <div style="display:none"><h1> 2022 Conference</h1></div>
 
 ![I2K Banner Image](/assets/images/banner-image.png)
+
 <br>
 <h4>Submit your request to present an Academic Talk &/or Workshop
 before March 1st, 2022!</h4>
@@ -52,10 +53,19 @@ Our thanks also to Juan Nunez-Iglesias for the use of and support with the Gathe
 
 <hr>
 ## Sponsors
-[Bioimaging North America (BINA)](https://www.bioimagingna.org/) <br>
-[Center for Open Bioimage Analysis (COBA)](https://openbioimageanalysis.org/)
+<div style="text-align:left;" markdown="1">
+  <a href="https://www.bioimagingna.org/"><img src="assets/images/bina-logo.png" alt="Bioimaging North America"></a> [
+  <br>
+  Bioimaging North America (BINA)](https://www.bioimagingna.org/)
+  <br>
+  <br>
+  <br>
+  <a href="https://openbioimageanalysis.org/"><img src="assets/images/coba-logo.png" alt="Center for Open Bioimage Analysis"></a>
+  <br>
+  [Center for Open Bioimage Analysis (COBA)](https://openbioimageanalysis.org/)
+</div>
 <hr>
 ## Connect
 Join the imagesc forums!         <a href="https://forum.image.sc/"><img src="assets/images/image-sc.png" alt="image.sc forums logo"></a>
 <br>
-If you have questions about I2K please contact us at [contact@bioimagingna.org](mailto:contact@bioimagingna.org)
+Questions about I2K? Please contact us at: [contact@bioimagingna.org](mailto:contact@bioimagingna.org)
