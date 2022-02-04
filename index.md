@@ -52,4 +52,10 @@ Our thanks also to Juan Nunez-Iglesias for the use of and support with the Gathe
 
 <hr>
 ## Sponsors
+[Bioimaging North America (BINA)](https://www.bioimagingna.org/) <br>
+[Center for Open Bioimage Analysis (COBA)](https://openbioimageanalysis.org/)
+<hr>
 ## Connect
+Join the imagesc forums!         <a href="https://forum.image.sc/"><img src="assets/images/image-sc.png" alt="image.sc forums logo"></a>
+<br>
+If you have questions about I2K please contact us at [contact@bioimagingna.org](mailto:contact@bioimagingna.org)
