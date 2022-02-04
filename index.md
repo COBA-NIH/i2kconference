@@ -6,8 +6,8 @@ layout: default
 
 ![I2K Banner Image](/assets/images/banner-image.png)
 <br>
-<center><h4>Submit your request to present an Academic Talk &/or Workshop
-before March 1st, 2022!</h4></center>
+<div style="center"><h4>Submit your request to present an Academic Talk &/or Workshop
+before March 1st, 2022!</h4></div>
 
 ## About
 
