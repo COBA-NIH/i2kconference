@@ -53,7 +53,7 @@ Our thanks also to Juan Nunez-Iglesias for the use of and support with the Gathe
 
 <hr>
 ## Sponsors
-<div style="text-align:left;" markdown="1">
+<div style="text-align:center;" markdown="1">
   <a href="https://www.bioimagingna.org/"><img src="assets/images/bina-logo.png" alt="Bioimaging North America"></a> [
   <br>
   Bioimaging North America (BINA)](https://www.bioimagingna.org/)
