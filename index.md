@@ -66,6 +66,7 @@ Our thanks also to Juan Nunez-Iglesias for the use of and support with the Gathe
 </div>
 <hr>
 ## Connect
-Join the imagesc forums!         <a href="https://forum.image.sc/"><img src="assets/images/image-sc.png" alt="image.sc forums logo"></a>
+Join the <a href="https://forum.image.sc/">image.sc forum!</a>
+<br>
 <br>
 Questions about I2K? Please contact us at: [contact@bioimagingna.org](mailto:contact@bioimagingna.org)
