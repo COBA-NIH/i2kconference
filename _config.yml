@@ -2,4 +2,5 @@ title: I2K 2022
 description: From Images to Knowledge - 2022
 show_downloads: true
 google_analytics:
+markdown: kramdown
 theme: jekyll-theme-leap-day
