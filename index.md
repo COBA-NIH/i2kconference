@@ -28,12 +28,12 @@ If you have questions please contact us at [contact@bioimagingna.org](mailto:con
 <hr>
 ## Organizers
 ##### 2022 I2K Organizing Committee:
-Nikki Bialy, <i>Morgridge Institute for Research</i><br>
+Nikki Bialy, <i>BINA, Morgridge Institute for Research</i><br>
 Beth Cimini, <i>Broad Institute of MIT</i><br>
 Ellen Dobson, <i>University of Wisconsin-Madison</i><br>
 Kevin Eliceiri, <i>University of Wisconsin-Madison</i><br>
 Sam Griffin, <i>University of Wisconsin-Madison</i><br>
-Vanessa Orr, <i>Morgridge Institute for Research</i><br>
+Vanessa Orr, <i>BINA, Morgridge Institute for Research</i><br>
 Thomas Pengo, <i>University of Minnesota</i><br>
 Rebecca Senft, <i>Broad Institute of MIT</i><br>
 
