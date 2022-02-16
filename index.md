@@ -32,10 +32,12 @@ Peter Bankhead, <i>University of Edinburgh</i><br>
 Nikki Bialy, <i>BINA, Morgridge Institute for Research</i><br>
 Beth Cimini, <i>Broad Institute of MIT</i><br>
 Ellen Dobson, <i>University of Wisconsin-Madison</i><br>
+Florian Jug, <i>ETH Zurich</i><br>
 Kevin Eliceiri, <i>University of Wisconsin-Madison</i><br>
 Sam Griffin, <i>University of Wisconsin-Madison</i><br>
 Vanessa Orr, <i>BINA, Morgridge Institute for Research</i><br>
 Thomas Pengo, <i>University of Minnesota</i><br>
+Stephan Preisbisch, <i>Janelia Research Campus/HHMI</i><br>
 Stephan Saalfeld, <i>Janelia Research Campus/HHMI</i><br>
 Rebecca Senft, <i>Broad Institute of MIT</i><br>
 
@@ -43,10 +45,13 @@ Rebecca Senft, <i>Broad Institute of MIT</i><br>
 Beth Cimini, <i>Broad Institute of MIT</i><br>
 Kevin Eliceiri, <i>University of Wisconsin-Madison</i><br>
 Florian Jug, <i>ETH Zurich</i><br>
+Anna Kreshuk, <i>EMBL</i><br>
 Paul Hernandez-Herrera, <i>University of Mexico</i><br>
 Thomas Pengo, <i>University of Minnesota</i><br>
 Stephan Preisbisch, <i>Janelia Research Campus/HHMI</i><br>
 Stephan Saalfeld, <i>Janelia Research Campus/HHMI</i><br>
+Christian Tischer, <i>EMBL</i><br>
+Pavel Tomancak, MPI-Dresden <i>Janelia Research Campus/HHMI</i><br>
 
 Our thanks also to Juan Nunez-Iglesias for the use of and support with the Gather Town Island.
 
