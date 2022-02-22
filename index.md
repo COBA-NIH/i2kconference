@@ -39,7 +39,7 @@ Kevin Eliceiri, <i>University of Wisconsin-Madison</i><br>
 Sam Griffin, <i>University of Wisconsin-Madison</i><br>
 Vanessa Orr, <i>BINA, Morgridge Institute for Research</i><br>
 Thomas Pengo, <i>University of Minnesota</i><br>
-Stephan Preisbisch, <i>Janelia Research Campus/HHMI</i><br>
+Stephan Preibisch, <i>Janelia Research Campus/HHMI</i><br>
 Stephan Saalfeld, <i>Janelia Research Campus/HHMI</i><br>
 Rebecca Senft, <i>Broad Institute of MIT</i><br>
 
@@ -50,7 +50,7 @@ Florian Jug, <i>Fondazione Human Technopole</i><br>
 Anna Kreshuk, <i>EMBL</i><br>
 Paul Hernandez-Herrera, <i>University of Mexico</i><br>
 Thomas Pengo, <i>University of Minnesota</i><br>
-Stephan Preisbisch, <i>Janelia Research Campus/HHMI</i><br>
+Stephan Preibisch, <i>Janelia Research Campus/HHMI</i><br>
 Stephan Saalfeld, <i>Janelia Research Campus/HHMI</i><br>
 Christian Tischer, <i>EMBL</i><br>
 Pavel Tomancak, MPI-Dresden <i>Janelia Research Campus/HHMI</i><br>
