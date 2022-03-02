@@ -8,7 +8,7 @@ layout: default
 
 <br>
 <h4>Submit your request to present an Academic Talk &/or Workshop <br>
-before March 1st, 2022!</h4>
+before March 3rd, 2022!</h4>
 
 ## About
 
