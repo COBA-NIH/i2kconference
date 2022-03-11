@@ -7,8 +7,7 @@ layout: default
 ![I2K Banner Image](/assets/images/banner-image.png)
 
 <br>
-<h4>Submit your request to present an Academic Talk &/or Workshop <br>
-before March 3rd, 2022!</h4>
+<h4>Talk and Workshop submissions for I2K 2022 are now closed</h4>
 
 ## About
 
