@@ -77,5 +77,8 @@ Join the <a href="https://forum.image.sc/">image.sc forum!</a>
 <br>
 <br>
 Questions about I2K? Please contact us at: [i2kconference@gmail.com](mailto:i2kconference@gmail.com)
+
+
+<hr>
 ## Code of Conduct 
 We have adopted the Chan Zuckerberg Institute’s  <a href="https://chanzuckerberg.com/ethics-policies/community-participation-guidelines/">Community Participation Guidelines</a>; by participating in this conference you agree to abide by these. If you need to contact the organizers to discuss a violation of these guidelines, please reach out to [eliceiri@wisc.edu](mailto:eliceiri@wisc.edu) or [contact@bioimagingna.org](mailto:contact@bioimagingna.org)
