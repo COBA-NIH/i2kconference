@@ -8,7 +8,8 @@ layout: default
 
 <br>
 <h4>Talk and Workshop submissions for I2K 2022 are now closed</h4>
-
+<br>
+<br>
 ## About
 
 Discovery in the life-sciences increasingly relies on quantitative analysis of microscopy images. The 2022 virtual event “From Images to Knowledge (I2K)”, to be held from May 6th, 9th and 10th, will therefore feature talks and in-depth interactive workshops covering state-of-the-art open-source solutions for biological image reconstruction and analysis, as well as social interaction between developers, researchers, and students. It will be an event to learn about and discuss forward looking strategies for dealing with the ever-increasing amount of large and content rich microscopy imagery.
@@ -75,4 +76,4 @@ Our thanks also to Juan Nunez-Iglesias for the use of and support with the Gathe
 Join the <a href="https://forum.image.sc/">image.sc forum!</a>
 <br>
 <br>
-Questions about I2K? Please contact us at: [contact@bioimagingna.org](mailto:contact@bioimagingna.org)
+Questions about I2K? Please contact us at: [i2kconference@gmail.com](mailto:i2kconference@gmail.com)
