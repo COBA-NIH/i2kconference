@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+
+  </head>
+  <body>
+
+      <header>
+        <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+      </header>
+
+      <div id="banner">
+
+        <a class="button fork">Free Registration (Coming Soon)</a>
+        <!-- <a href="/assets/calendar-invite.ics" class="button fork2">Add to Calendar</a> -->
+
+        {% if site.show_downloads %}
+          <div class="downloads">
+            <span><b>Submissions closed:</b></span>
+            <ul>
+              <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSds7leWTWXQ-XeemxPhfDDLSktHbVaAppcsR57EYIPOcOiuaw/viewform" class="button" target="_blank">Talk</a></li>
+              <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSds7leWTWXQ-XeemxPhfDDLSktHbVaAppcsR57EYIPOcOiuaw/viewform" class="button" target="_blank">Workshop</a></li>
+            </ul>
+          </div>
+        {% endif %}
+      </div><!-- end banner -->
+
+    <div class="airtable-wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
+      <airtable-section>
+        {{ content }}
+      </airtable-section>
+      <footer>
+        {% if site.github.is_project_page %}
+          <p><small>Project maintained by <a href="https://github.com/smgriffin2">smgriffin2</a></small></p>
+        {% endif %}
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
+      </footer>
+    </div>
+  </body>
+</html>
