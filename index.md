@@ -19,12 +19,21 @@ As all major open-source platforms for bioimage analysis will be represented inc
 If you have questions please contact us at [contact@bioimagingna.org](mailto:contact@bioimagingna.org)
 
 <hr>
-## Program - Coming soon!
+## Program
 
-### Talks
-### Workshops
-### Posters
+The program for I2K 2022 consists of scheduled [talks](/talks), as well as Q&As for pre-recorded workshops, from 9 am - 3 pm Central time [(find your time here)](https://savvytime.com/converter/cdt/may-6-2022/9am).  [Workshops](/workshops) that are being held ‘live’ are concurrently scheduled between 7 am - 9 am or 3 pm - 5 pm Central time, please see our [Zoom Events page](https://tinyurl.com/I2K-2022) for specific start times.  Pre-recorded talks and workshops will be made available before the event, and links will be found here: [Talks](/talks) and [Workshops](/workshops), as well as on the [I2K YouTube Channel](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
+<br>
+<div style="display:none">
+<h3>Talks</h3>
+<h3>Workshops</h3>
+<h3>Posters</h3>
+</div>
 
+[Talks](/talk)
+[Workshops](/workshops)
+[Posters](/posters)
+
+![I2K Program](/assets/images/program.png)
 <hr>
 ## Organizers
 ##### 2022 I2K Organizing/Scientific Committee:
