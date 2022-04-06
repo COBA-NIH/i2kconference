@@ -7,7 +7,7 @@ layout: default
 ![I2K Banner Image](/assets/images/banner-image.png)
 
 <br>
-<h4><a href="https://events.zoom.us/ev/ADtHs9x7QhsE3RjA1T_mPrmK7YESPKHPFF2vRBzpursCTu839hXZbuwMUQvS9BHvGRs9Vzo">Registration</a> is now open!
+<h4><a href="https://events.zoom.us/ev/ADtHs9x7QhsE3RjA1T_mPrmK7YESPKHPFF2vRBzpursCTu839hXZbuwMUQvS9BHvGRs9Vzo">Registration</a> is now open!</hr>
 <br>
 <br>
 ## About
