@@ -24,7 +24,7 @@ If you have questions please contact us at [contact@bioimagingna.org](mailto:con
 The program for I2K 2022 consists of scheduled [talks](https://i2kconference.org/talks), as well as Q&As for pre-recorded workshops, from 9 am - 3 pm Central time [(find your time here)](https://savvytime.com/converter/cdt/may-6-2022/9am).  [Workshops](https://i2kconference.org/workshops) that are being held ‘live’ are concurrently scheduled between 7 am - 9 am or 3 pm - 5 pm Central time, please see our [Zoom Events page](https://tinyurl.com/I2K-2022) for specific start times.  Pre-recorded talks and workshops will be made available before the event, and links will be found here: [Talks](https://i2kconference.org/talks) and [Workshops](https://i2kconference.org/workshops), as well as on the [I2K YouTube Channel](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
 <br>
 <div style="font-size:18px;font-weight:bold;" markdown="1">
-Full Program: [Talks](talks), [Workshops](workshops), and [Posters](posters)
+Full Program: [Talks](https://i2kconference.org/talks), [Workshops](https://i2kconference.org/workshops), and [Posters](https://i2kconference.org/posters)
 </div>
 ![I2K Program](assets/images/program.png)
 
