@@ -28,10 +28,10 @@ The program for I2K 2022 consists of scheduled [talks](/talks), as well as Q&As 
 ![I2K Program](/assets/images/program.png)
 
 <br>
-<div style="display:none;margin:auto;">
-<h3>Talks</h3>
-<h3>Workshops</h3>
-<h3>Posters</h3>
+<div style="display:none;margin:auto;" markdown="1">
+### Talks
+### Workshops
+### Posters
 </div>
 
 [List of Talks](/talk)<br>
