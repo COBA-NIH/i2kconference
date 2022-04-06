@@ -86,7 +86,7 @@ Our thanks also to Juan Nunez-Iglesias for the use of and support with the Gathe
 
 <hr>
 ## Code of Conduct
-We have adopted the Chan Zuckerberg Institute’s  <a href="https://chanzuckerberg.com/ethics-policies/community-participation-guidelines/">Community Participation Guidelines</a>; by participating in this conference you agree to abide by these. If you need to contact the organizers to discuss a violation of these guidelines, please reach out to [eliceiri@wisc.edu](mailto:eliceiri@wisc.edu) or [contact@bioimagingna.org](mailto:contact@bioimagingna.org)
+We have adopted the Chan Zuckerberg Initiative’s  <a href="https://chanzuckerberg.com/ethics-policies/community-participation-guidelines/">Community Participation Guidelines</a>; by participating in this conference you agree to abide by these. If you need to contact the organizers to discuss a violation of these guidelines, please reach out to [eliceiri@wisc.edu](mailto:eliceiri@wisc.edu) or [contact@bioimagingna.org](mailto:contact@bioimagingna.org)
 
 <hr>
 ## Connect
