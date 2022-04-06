@@ -6,4 +6,4 @@ Posters for I2K 2022 must be submitted by April 27, 2022 for consideration.  I2K
 
 Please submit posters here: [https://forms.gle/kuWG1t5ASKPmRGuT7](https://forms.gle/kuWG1t5ASKPmRGuT7)
 
-Please reach out to [i2kconference@gmail.com](i2kconference@gmail.com) if you have any questions.
+Please reach out to [i2kconference@gmail.com](mailto:i2kconference@gmail.com) if you have any questions.
