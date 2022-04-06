@@ -11,7 +11,7 @@ Pre-recorded workshops will have scheduled 20 minute Q&A sessions in GatherTown 
 Please reach out to [i2kconference@gmail.com](mailto:i2kconference@gmail.com) if you have any questions
 </div>
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr44V7fmPH4isCwC?backgroundColor=greenLight&viewControls=on" frameborder="0" onmousewheel="" width="90%" height="533" style="background: transparent; border: 1px solid #ccc; margin: 0 auto; display:block;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr44V7fmPH4isCwC?backgroundColor=greenLight&viewControls=on" frameborder="0" onmousewheel="" width="90%" height="900" style="background: transparent; border: 1px solid #ccc; margin: 0 auto; display:block;"></iframe>
 
 <br>
 <br>

@@ -10,7 +10,7 @@ Please reach out to [i2kconference@gmail.com](i2kconference@gmail.com) if you ha
 </div>
 
 <div style="height: 100vh;">
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr44V7fmPH4isCwC?backgroundColor=greenLight&viewControls=on" frameborder="0" onmousewheel="" width="90%" height="533" style="background: transparent; border: 1px solid #ccc; margin: 0 auto; display:block;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr44V7fmPH4isCwC?backgroundColor=greenLight&viewControls=on" frameborder="0" onmousewheel="" width="90%" height="900" style="background: transparent; border: 1px solid #ccc; margin: 0 auto; display:block;"></iframe>
 </div>
 <br>
 <br>
