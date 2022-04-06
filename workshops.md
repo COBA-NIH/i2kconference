@@ -4,9 +4,9 @@ layout: airtable
 
 <div style="max-width:800px;margin:175px auto 0px auto;padding:20px;" markdown="1">
 <h1>Workshops</h1>
-Workshops that are being held ‘live’ are concurrently scheduled between 7 am - 9 am or 3 pm - 5 pm Central time, please see our [Zoom Events page](https://tinyurl.com/I2K-2022) for specific start times.
+Workshops that are being held ‘live’ are concurrently scheduled between 7 am - 9 am or 3 pm - 5 pm US Central time, please see our [Zoom Events page](https://tinyurl.com/I2K-2022) for specific start times.
 
-Pre-recorded workshops will have scheduled 20 minute Q&A sessions in GatherTown beginning at 10:40 am and 12:40 pm Central time, and the link to view their workshop recording will be made available as soon as possible in the spreadsheet below or [here](https://airtable.com/shr44V7fmPH4isCwC).
+Pre-recorded workshops will have scheduled 20 minute Q&A sessions in GatherTown beginning at 10:40 am and 12:40 pm US Central time, and the link to view their workshop recording will be made available as soon as possible in the spreadsheet below or [here](https://airtable.com/shr44V7fmPH4isCwC).
 
 Please reach out to [i2kconference@gmail.com](mailto:i2kconference@gmail.com) if you have any questions
 </div>
