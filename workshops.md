@@ -6,7 +6,7 @@ layout: airtable
 <h1>Workshops</h1>
 Workshops that are being held ‘live’ are concurrently scheduled between 7 am - 9 am or 3 pm - 5 pm Central time, please see our [Zoom Events page](https://tinyurl.com/I2K-2022) for specific start times.
 
-Pre-recorded workshops will have a scheduled 20 minute Q&A session beginning at 10:40 am and 12:40 pm Central time, and the link to view their workshop recording will be made available as soon as possible in the spreadsheet below or [here](https://airtable.com/shr44V7fmPH4isCwC).
+Pre-recorded workshops will have scheduled 20 minute Q&A sessions in GatherTown beginning at 10:40 am and 12:40 pm Central time, and the link to view their workshop recording will be made available as soon as possible in the spreadsheet below or [here](https://airtable.com/shr44V7fmPH4isCwC).
 
 Please reach out to [i2kconference@gmail.com](mailto:i2kconference@gmail.com) if you have any questions
 </div>
