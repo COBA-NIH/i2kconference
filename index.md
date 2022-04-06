@@ -27,6 +27,7 @@ The program for I2K 2022 consists of scheduled [talks](talks), as well as Q&As f
 
 ![I2K Program](assets/images/program.png)
 
+<!-- hidden till page links can be fixed
 <br>
 <div style="display:none;margin:auto;" markdown="1">
 ### Talks
@@ -37,6 +38,8 @@ The program for I2K 2022 consists of scheduled [talks](talks), as well as Q&As f
 [List of Talks](talks)<br>
 [List of Workshops](workshops)<br>
 [Submit a Poster](posters)<br>
+-->
+
 <hr>
 ## Organizers
 ##### 2022 I2K Organizing/Scientific Committee:
