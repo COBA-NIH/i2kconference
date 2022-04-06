@@ -258,23 +258,26 @@ header {
   }
     .button2 {
       border: 1px solid #333;
-      background: linear-gradient(#000, #333);
+      background: linear-gradient(#000, #222);
       border-radius: 2px;
+      border-color: #65ff00;
       box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
       background-color: #443D89;
+      box-shadow: 0px 0px 1px 1px #65ff00;
       margin-left: 5px;
       padding: 10px 12px;
       margin-top: 6px;
       line-height:14px;
       font-size:14px;
-      color:#FFF;
+      color:#eee;
       font-weight: bold;
       display:inline-block;
       text-align:center;
 
       &:hover {
-        background: linear-gradient(#222, #555);
-        background-color: #dfbbfb;
+        background: linear-gradient(#65ff00, #007a21);
+        background-color: #65ff00;
+        color: #000
       }
   }
 
