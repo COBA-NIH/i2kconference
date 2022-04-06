@@ -21,11 +21,11 @@ If you have questions please contact us at [contact@bioimagingna.org](mailto:con
 <hr>
 ## Program
 
-The program for I2K 2022 consists of scheduled [talks](/talks), as well as Q&As for pre-recorded workshops, from 9 am - 3 pm Central time [(find your time here)](https://savvytime.com/converter/cdt/may-6-2022/9am).  [Workshops](/workshops) that are being held ‘live’ are concurrently scheduled between 7 am - 9 am or 3 pm - 5 pm Central time, please see our [Zoom Events page](https://tinyurl.com/I2K-2022) for specific start times.  Pre-recorded talks and workshops will be made available before the event, and links will be found here: [Talks](/talks) and [Workshops](/workshops), as well as on the [I2K YouTube Channel](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
+The program for I2K 2022 consists of scheduled [talks](talks), as well as Q&As for pre-recorded workshops, from 9 am - 3 pm Central time [(find your time here)](https://savvytime.com/converter/cdt/may-6-2022/9am).  [Workshops](workshops) that are being held ‘live’ are concurrently scheduled between 7 am - 9 am or 3 pm - 5 pm Central time, please see our [Zoom Events page](https://tinyurl.com/I2K-2022) for specific start times.  Pre-recorded talks and workshops will be made available before the event, and links will be found here: [Talks](talks) and [Workshops](workshops), as well as on the [I2K YouTube Channel](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
 <br>
 
 
-![I2K Program](/assets/images/program.png)
+![I2K Program](assets/images/program.png)
 
 <br>
 <div style="display:none;margin:auto;" markdown="1">
@@ -34,9 +34,9 @@ The program for I2K 2022 consists of scheduled [talks](/talks), as well as Q&As 
 ### Posters
 </div>
 
-[List of Talks](/talk)<br>
-[List of Workshops](/workshops)<br>
-[Submit a Poster](/posters)<br>
+[List of Talks](talks)<br>
+[List of Workshops](workshops)<br>
+[Submit a Poster](posters)<br>
 <hr>
 ## Organizers
 ##### 2022 I2K Organizing/Scientific Committee:
