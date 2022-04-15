@@ -11,6 +11,7 @@ layout: default
 Please only register if you are able to attend. Recordings of presentations and workshops will be made available on YouTube after the conference.
 <br>
 <br>
+<hr>
 ## About
 
 Discovery in the life-sciences increasingly relies on quantitative analysis of microscopy images. The 2022 virtual event “From Images to Knowledge (I2K)”, to be held from May 6th, 9th and 10th, will therefore feature talks and in-depth interactive workshops covering state-of-the-art open-source solutions for biological image reconstruction and analysis, as well as social interaction between developers, researchers, and students. It will be an event to learn about and discuss forward looking strategies for dealing with the ever-increasing amount of large and content rich microscopy imagery.
