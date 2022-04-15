@@ -8,6 +8,7 @@ layout: default
 
 <br>
 <h4><a href="https://events.zoom.us/ev/ADtHs9x7QhsE3RjA1T_mPrmK7YESPKHPFF2vRBzpursCTu839hXZbuwMUQvS9BHvGRs9Vzo">Registration</a> is now open!</h4>
+Please only register if you are able to attend. Recordings of presentations and workshops will be made available on YouTube after the conference.
 <br>
 <br>
 ## About
