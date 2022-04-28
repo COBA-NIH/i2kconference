@@ -1,9 +1,16 @@
 ---
-layout: default
+layout: airtable
 ---
-# Posters
-Posters for I2K 2022 must be submitted by April 27, 2022 for consideration.  I2K is organized around the principles of open-source, so please make sure all presented content is freely available.  This is NOT an opportunity to advertise for-profit tools/software/services. The poster session will be held in Gather Town on May 9 from 2 pm - 3pm US Central time.
 
-Please submit posters here: [https://forms.gle/kuWG1t5ASKPmRGuT7](https://forms.gle/kuWG1t5ASKPmRGuT7)
+<div style="max-width:800px;margin:175px auto 0px auto;padding:20px;" markdown="1">
+<h1>Posters</h1>
+The I2K 2022 poster session will be held in the image.sc island [GatherTown](https://app.gather.town/app/nq1oQrNJ1UIQ5t01/imagesc-island) on May 9 from 2 pm - 3pm US Central time.
+</div>
 
-Please reach out to [i2kconference@gmail.com](mailto:i2kconference@gmail.com) if you have any questions.
+<div style="height: 100vh;">
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrO92dqFR1c3vJ5V?backgroundColor=greenLight&viewControls=on" frameborder="0" onmousewheel="" width="90%" height="900" style="background: transparent; border: 1px solid #ccc; margin: 0 auto; display:block;"></iframe>
+</div>
+<br>
+<br>
+<br>
+<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
