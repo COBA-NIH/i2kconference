@@ -28,6 +28,11 @@ The program for I2K 2022 consists of scheduled [talks](https://i2kconference.org
 <div style="font-size:18px;font-weight:bold;" markdown="1">
 Full Program: [Talks](https://i2kconference.org/talks), [Workshops](https://i2kconference.org/workshops), and [Posters](https://i2kconference.org/posters)
 </div>
+
+<div style="font-size:14px;font-weight:bold;" markdown="1">
+Helpful “Tips & Tricks” for [Zoom Events](https://docs.google.com/document/d/1YNrXEx4sk5I3zdlUiREXE1sMBihcQkuVbTa-_a7bVDg/edit?usp=sharing) and [GatherTown](https://docs.google.com/document/d/1Gps6r72V0i7iG7JkvXHkWb_cR1DjpmVJxb8oVvKnALM/edit?usp=sharing)
+<br>
+</div>
 ![I2K Program](assets/images/program.png)
 
 <!-- hidden till page links can be fixed
