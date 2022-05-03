@@ -7,8 +7,9 @@ layout: default
 ![I2K Banner Image](/assets/images/banner-image.png)
 
 <br>
-<h4><a href="https://events.zoom.us/ev/ADtHs9x7QhsE3RjA1T_mPrmK7YESPKHPFF2vRBzpursCTu839hXZbuwMUQvS9BHvGRs9Vzo">Registration</a> is now open!</h4>
-Please only register if you are able to attend. Recordings of presentations and workshops will be made available on YouTube after the conference.
+<h4><a href="https://events.zoom.us/ev/ADtHs9x7QhsE3RjA1T_mPrmK7YESPKHPFF2vRBzpursCTu839hXZbuwMUQvS9BHvGRs9Vzo">Registration</a> is now open!<br>
+<a href="https://tinyurl.com/I2K-2022-PrepChecklist">Pre-Event Checklist</a</h4>
+Recordings of presentations and workshops will be made available on [YouTube](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg) after the conference.
 <br>
 <br>
 <hr>
@@ -97,7 +98,7 @@ Our thanks also to Juan Nunez-Iglesias for the use of and support with the Gathe
 
 <hr>
 ## Code of Conduct
-We have adopted the Chan Zuckerberg Initiative’s  <a href="https://chanzuckerberg.com/ethics-policies/community-participation-guidelines/">Community Participation Guidelines</a>; by participating in this conference you agree to abide by these. If you need to contact the organizers to discuss a violation of these guidelines, please reach out to [eliceiri@wisc.edu](mailto:eliceiri@wisc.edu) or [contact@bioimagingna.org](mailto:contact@bioimagingna.org)
+We have adopted the Chan Zuckerberg Initiative’s  <a href="https://chanzuckerberg.com/ethics-policies/community-participation-guidelines/">Community Participation Guidelines</a>; by participating in this conference you agree to abide by these. If you need to contact the organizers to discuss a violation of these guidelines, please reach out to [eliceiri@wisc.edu](mailto:eliceiri@wisc.edu) or [i2kconference@gmail.com](mailto:i2kconference@gmail.com)
 
 <hr>
 ## Connect
