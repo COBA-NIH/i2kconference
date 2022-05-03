@@ -19,7 +19,7 @@ Discovery in the life-sciences increasingly relies on quantitative analysis of m
 
 As all major open-source platforms for bioimage analysis will be represented including many in the [image.sc forum](https://forum.image.sc/), this will be a great opportunity to learn how to use the best software tools for your research and how to get involved in their development! We will have an exciting range of developers and adopters in the field of computational image analysis participating in the workshop, both as tutors and social participants.
 
-If you have questions please contact us at [contact@bioimagingna.org](mailto:contact@bioimagingna.org)
+If you have questions please contact us at [i2kconference@gmail.com](mailto:i2kconference@gmail.com)
 
 <hr>
 ## Program
@@ -31,6 +31,9 @@ Full Program: [Talks](https://i2kconference.org/talks), [Workshops](https://i2kc
 </div>
 
 <div style="font-size:14px;font-weight:bold;" markdown="1">
+<a href="https://tinyurl.com/I2K-2022-PrepChecklist">Pre-Event Checklist</a>
+<br>
+<br>
 Helpful “Tips & Tricks” for [Zoom Events](https://docs.google.com/document/d/1YNrXEx4sk5I3zdlUiREXE1sMBihcQkuVbTa-_a7bVDg/edit?usp=sharing) and [GatherTown](https://docs.google.com/document/d/1Gps6r72V0i7iG7JkvXHkWb_cR1DjpmVJxb8oVvKnALM/edit?usp=sharing)
 <br>
 </div>
