@@ -6,6 +6,8 @@ layout: airtable
 <h1>Talks</h1>
 All talks will be held between 9 am and 3 pm US Central time, May 6th, 9th, and 10th, 2022. Each talk will be ~10 minutes with time for Q&A afterwards. Details for each talk can be found in the spreadsheet below or [here](https://airtable.com/shrxi7QEd2gHLIS0a), including links to pre-recordings when available.
 
+Each record can be viewed in full by clicking on the expansion arrows in the first cell in the far-left column.  The spreadsheet below can also be downloaded; however, the data is continually being updated so check here for the current information.
+
 Please reach out to [i2kconference@gmail.com](mailto:i2kconference@gmail.com) if you have any questions.
 </div>
 
