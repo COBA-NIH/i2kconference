@@ -7,7 +7,8 @@ layout: default
 ![I2K Banner Image](/assets/images/banner-image.png)
 
 <br>
-<h4><a href="https://events.zoom.us/ev/ADtHs9x7QhsE3RjA1T_mPrmK7YESPKHPFF2vRBzpursCTu839hXZbuwMUQvS9BHvGRs9Vzo">Registration</a> is now open!<br>
+<h4>
+Recordings of conference material are available on [YouTube](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg.
 <a href="https://tinyurl.com/I2K-2022-PrepChecklist">Pre-Event Checklist</a></h4>
 Recordings of presentations and workshops will be made available on [YouTube](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg) after the conference.
 <br>
