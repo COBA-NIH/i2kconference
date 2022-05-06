@@ -8,7 +8,8 @@ layout: default
 
 <br>
 
-Recordings of conference material is available on [YouTube](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
+Recordings of conference material are available on [YouTube](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
+<br>
 <a href="https://tinyurl.com/I2K-2022-PrepChecklist">Pre-Event Checklist</a>
 <br>
 <br>
