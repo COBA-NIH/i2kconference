@@ -7,10 +7,9 @@ layout: default
 ![I2K Banner Image](/assets/images/banner-image.png)
 
 <br>
-<h4>
-Recordings of conference material are available on [YouTube](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg.
-<a href="https://tinyurl.com/I2K-2022-PrepChecklist">Pre-Event Checklist</a></h4>
-Recordings of presentations and workshops will be made available on [YouTube](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg) after the conference.
+
+Recordings of conference material is available on [YouTube](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
+<a href="https://tinyurl.com/I2K-2022-PrepChecklist">Pre-Event Checklist</a>
 <br>
 <br>
 <hr>
