@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div style="display:none"><h1> 2022 Conference</h1></div>
+<div style="display:none"><h1> 2023 Conference</h1></div>
 
 ![I2K Banner Image](/assets/images/banner-image.png)
 
