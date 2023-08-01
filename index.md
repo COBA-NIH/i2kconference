@@ -2,21 +2,21 @@
 layout: default
 ---
 
-<div style="display:none"><h1> 2022 Conference</h1></div>
+<div style="display:none"><h1> 2023 Conference</h1></div>
 
 ![I2K Banner Image](/assets/images/banner-image.png)
 
 <br>
 
-Recordings of 2022 conference material are available on [YouTube](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
+Recordings of 2023 conference material are available on [YouTube](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
 <br>
-<a href="https://tinyurl.com/I2K-2022-PrepChecklist">Pre-Event Checklist</a>
+<a href="https://tinyurl.com/I2K-2023-PrepChecklist">Pre-Event Checklist</a>
 <br>
 <br>
 <hr>
 ## About
 
-Discovery in the life-sciences increasingly relies on quantitative analysis of microscopy images. The 2023 virtual event “Halfway to I2K”, to be held from October 17th-19th, will therefore feature in-depth interactive workshops covering state-of-the-art open-source solutions for biological image reconstruction and analysis, as well as social interaction between developers, researchers, and students. It will be an event to learn about and discuss forward looking strategies for dealing with the ever-increasing amount of large and content rich microscopy imagery.
+Discovery in the life-sciences increasingly relies on quantitative analysis of microscopy images. The 2023 virtual event “Halfway to I2K”, to be held from October 17th-19th, will therefore feature in-depth interactive workshops covering state-of-the-art open-source solutions for biological image reconstruction and analysis. It will be an event to learn about and discuss forward looking strategies for dealing with the ever-increasing amount of large and content rich microscopy imagery.
 
 As all major open-source platforms for bioimage analysis will be represented including many in the [image.sc forum](https://forum.image.sc/), this will be a great opportunity to learn how to use the best software tools for your research and how to get involved in their development! We will have an exciting range of developers and adopters in the field of computational image analysis participating in the workshop, both as tutors and social participants.
 
@@ -25,20 +25,22 @@ If you have questions please contact us at [i2kconference@gmail.com](mailto:i2kc
 <hr>
 ## Program
 
-The program for I2K 2023 consists of [workshops](https://i2kconference.org/workshops) that are being held ‘live’ are scheduled asynchronously around the globe during the 3 days of the event, please see our [Zoom Events page](https://tinyurl.com/I2K-2022) for specific start times.  Pre-recorded talks and workshops will be made available before the event, and links will be found here: [Talks](https://i2kconference.org/talks) and [Workshops](https://i2kconference.org/workshops), as well as on the [I2K YouTube Channel](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
+The program for I2K 2023 consists of [workshops](https://i2kconference.org/workshops) that are being held ‘live’ are scheduled asynchronously around the globe during the 3 days of the event, please see our [Zoom Events page](https://tinyurl.com/I2K-2023) for specific start times.  Pre-recorded workshops will be made available before the event, and links will be found [here](https://i2kconference.org/workshops), as well as on the [I2K YouTube Channel](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
 <br>
 <div style="font-size:18px;font-weight:bold;" markdown="1">
 Full Program: [Workshops](https://i2kconference.org/workshops)
 </div>
 
 <div style="font-size:14px;font-weight:bold;" markdown="1">
-<a href="https://tinyurl.com/I2K-2022-PrepChecklist">Pre-Event Checklist</a>
+<a href="https://tinyurl.com/I2K-2023-PrepChecklist">Pre-Event Checklist</a>
 <br>
 <br>
-Helpful “Tips & Tricks” for [Zoom Events](https://docs.google.com/document/d/1YNrXEx4sk5I3zdlUiREXE1sMBihcQkuVbTa-_a7bVDg/edit?usp=sharing) and [GatherTown](https://docs.google.com/document/d/1Gps6r72V0i7iG7JkvXHkWb_cR1DjpmVJxb8oVvKnALM/edit?usp=sharing)
+Helpful “Tips & Tricks” for [Zoom Events](https://docs.google.com/document/d/1YNrXEx4sk5I3zdlUiREXE1sMBihcQkuVbTa-_a7bVDg/edit?usp=sharing)
 <br>
 </div>
+<!-- if we have a PNG program for the main page, it goes here, otherwise, keep this hidden
 ![I2K Program](assets/images/program.png)
+-->
 
 <!-- hidden till page links can be fixed
 <br>
@@ -71,6 +73,10 @@ Thomas Pengo, <i>University of Minnesota</i><br>
   <a href="https://openbioimageanalysis.org/"><img src="assets/images/coba-logo.png" alt="Center for Open Bioimage Analysis"></a>
   <br>
   [Center for Open Bioimage Analysis (COBA)](https://openbioimageanalysis.org/)
+  <br>
+  <br>
+  <br>
+  The Society for Knowledge Exchange in Bioimage Analysis
 </div>
 
 <hr>
