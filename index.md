@@ -33,11 +33,11 @@ The program for I2K 2023 consists of [workshops](https://i2kconference.org/works
 Full Program: [Workshops](https://i2kconference.org/workshops)
 </div>
 <!-- if we have a Pre-Event Checklist, it will go here
-<div style="font-size:14px;font-weight:bold;" markdown="1">
 <a href="https://tinyurl.com/I2K-2023-PrepChecklist">Pre-Event Checklist</a>
 <br>
 <br>
 -->
+<div style="font-size:14px;font-weight:bold;" markdown="1">
 Helpful “Tips & Tricks” for [Zoom Events](https://docs.google.com/document/d/1YNrXEx4sk5I3zdlUiREXE1sMBihcQkuVbTa-_a7bVDg/edit?usp=sharing)
 <br>
 </div>
