@@ -9,10 +9,12 @@ layout: default
 <br>
 
 Recordings of 2022 conference material are available on [YouTube](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
+<!-- if we have a Pre-Event Checklist, it will go here
 <br>
 <a href="https://tinyurl.com/I2K-2023-PrepChecklist">Pre-Event Checklist</a>
 <br>
 <br>
+-->
 <hr>
 ## About
 
@@ -25,16 +27,17 @@ If you have questions please contact us at [i2kconference@gmail.com](mailto:i2kc
 <hr>
 ## Program
 
-The program for I2K 2023 consists of [workshops](https://i2kconference.org/workshops) that are being held ‘live’ are scheduled asynchronously around the globe during the 3 days of the event, please see our [Zoom Events page](https://tinyurl.com/I2K-2023) for specific start times.  Pre-recorded workshops will be made available before the event, and links will be found [here](https://i2kconference.org/workshops), as well as on the [I2K YouTube Channel](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
+The program for I2K 2023 consists of [workshops](https://i2kconference.org/workshops) that are scheduled asynchronously around the globe during the 3 days of the event.  In some cases, pre-recorded workshops will be made available before the event, and links will be found [here](https://i2kconference.org/workshops), as well as on the [I2K YouTube Channel](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
 <br>
 <div style="font-size:18px;font-weight:bold;" markdown="1">
 Full Program: [Workshops](https://i2kconference.org/workshops)
 </div>
-
+<!-- if we have a Pre-Event Checklist, it will go here
 <div style="font-size:14px;font-weight:bold;" markdown="1">
 <a href="https://tinyurl.com/I2K-2023-PrepChecklist">Pre-Event Checklist</a>
 <br>
 <br>
+-->
 Helpful “Tips & Tricks” for [Zoom Events](https://docs.google.com/document/d/1YNrXEx4sk5I3zdlUiREXE1sMBihcQkuVbTa-_a7bVDg/edit?usp=sharing)
 <br>
 </div>
