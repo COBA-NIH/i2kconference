@@ -4,7 +4,7 @@ layout: default
 
 <div style="display:none"><h1> 2023 Conference</h1></div>
 
-![I2K Banner Image](/assets/images/2023Flyer.png)
+![I2K Banner Image](/assets/images/Halfway to I2K Flyer.png)
 
 <br>
 
