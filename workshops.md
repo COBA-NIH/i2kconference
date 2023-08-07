@@ -18,7 +18,6 @@ note - times are displayed in your local time
 Each record can be viewed in full by clicking on the expansion arrows in the first cell in the far-left column.  The spreadsheet below can also be downloaded; however, the data is continually being updated so check here for the current information.
 <iframe class="airtable-embed" src="https://airtable.com/embed/appE66koIe2ofWJw7/shreRU2FySOQcMK6z?backgroundColor=greenLight&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="650" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
--->
 <br>
 <br>
 <br>
