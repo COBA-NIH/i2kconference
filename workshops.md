@@ -7,19 +7,19 @@ layout: airtable
 
 Workshops are being held asynchronously per the organizer's preferences over the course of October 17-19th, 2023. Please see the <a href="#calendar">calendar view </a>below for specific workshop times, and the <a href="#table">table view</a> for workshop details.
 
-Use this form to submit your own workshop by October 1: https://airtable.com/appE66koIe2ofWJw7/shr2DZI2uwCyw4taP
+Use this form to submit your own workshop by October 1: <a href="https://airtable.com/appE66koIe2ofWJw7/shr2DZI2uwCyw4taP">https://airtable.com/appE66koIe2ofWJw7/shr2DZI2uwCyw4taP</a>
 Registration details coming mid-September.
 
-Please reach out to [i2kconference@gmail.com](mailto:i2kconference@gmail.com) if you have any questions
+Please reach out to [i2kconference@gmail.com](mailto:i2kconference@gmail.com) if you have any questions.
 </div>
 
 <h2 id="calendar">Calendar View</h2>
 note - times are displayed in your local time
-<iframe class="airtable-embed" src="https://airtable.com/embed/appE66koIe2ofWJw7/shrSx0Qs2y53i68Iq?backgroundColor=greenLight&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="650" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appE66koIe2ofWJw7/shrSx0Qs2y53i68Iq?backgroundColor=greenLight&viewControls=on" frameborder="0" onmousewheel="" width="70%" height="650" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 <h2 id="table">Table View</h2>
 Each record can be viewed in full by clicking on the expansion arrows in the first cell in the far-left column.  The spreadsheet below can also be downloaded; however, the data is continually being updated so check here for the current information.
-<iframe class="airtable-embed" src="https://airtable.com/embed/appE66koIe2ofWJw7/shreRU2FySOQcMK6z?backgroundColor=greenLight&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="650" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appE66koIe2ofWJw7/shreRU2FySOQcMK6z?backgroundColor=greenLight&viewControls=on" frameborder="0" onmousewheel="" width="70%" height="650" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 <br>
 <br>
