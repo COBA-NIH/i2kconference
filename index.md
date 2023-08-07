@@ -57,6 +57,59 @@ Helpful “Tips & Tricks” for [Zoom Events](https://docs.google.com/document/d
 -->
 
 <hr>
+## FAQ
+<div style="text-align:center;margin-bottom:15px;" markdown="1">
+### For tutorial presenters
+
+**_I'm a developer of an open source tool that I want to teach people about- how do I get involved?_**
+
+Please sign up via the Airtable link above! You will be asked for a bit of demographic information, as well as information about the workshop you plan to teach, specifically
+
+- The title and presenter list
+- A brief (2-5 sentence) description of your workshop
+- Keywords associated with your workshop
+- Pre-workshop instructions for attendees, as well as how much they should expect to interact in your workshop (is it a general overview/demo, or an interactive hands-on-workshop)
+- The target audience (beginners, intermediate users, advanced users, and/or developers)
+- When you plan to host this, and how long it will be
+
+**_Can this be anytime on October 17th-19th?_**
+
+Yes! You can host this workshop in any time that works well for you to teach it in. We very much hope to have tutorials appropriate for all time zones!
+
+**_Will only one tutorial be happening at a time?_**
+
+No, not necessarily - since each tutorial presenter signs up for the time best for them, there may be some times with no tutorials running and some with many running simultaneously. A calendar with live updates will be available on the I2K website - the earlier you sign up, the earlier that people can know when your tutorial is (and adjust their time accordingly if needed). 
+
+**_Can I submit more than one tutorial for my tool/tutorials on more than one open-source tool?_**
+
+Yes, please do!
+
+**_How many people should I expect to show up?_**
+
+The distributed way this is run will make it hard for us to say this for sure, but last year's I2K meeting attracted several hundred total attendees. We will be asking attendees to indicate interest in particular tutorials ahead of time, but we will not be controlling who finally shows up on the actual day.
+
+### For tutorial attendees
+
+**_How do I sign up to attend I2K 2023?_**
+
+More information on how to register will be released in September, but please do feel free to mark your calendars now!
+
+**_What do I need to do to prepare?_**
+
+This will depend on the tutorial in question! The tutorial presenter should indicate this in the information when they post their tutorial. 
+
+**_When will the tutorial for [my favorite tool] be held?_**
+
+That's really up to the creators of that tool! The website will be updated on a rolling basis as sessions are submitted. If you can't make the time chosen, we will be encouraging tutorial presenters to record their workshops for upload afterward.
+
+**_Do I need to indicate ahead of time which session(s) I plan to attend?_**
+
+It won't be required, but will definitely help the tutorial presenters plan, so once registration is live, we strongly encourage you to do so! More instructions will be released when registration opens.
+
+
+</div>
+
+<hr>
 ## Organizers
 ##### 2023 I2K Organizing/Scientific Committee:
 Nikki Bialy, <i>BINA, Morgridge Institute for Research</i><br>
