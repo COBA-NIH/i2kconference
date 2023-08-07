@@ -58,8 +58,8 @@ Helpful “Tips & Tricks” for [Zoom Events](https://docs.google.com/document/d
 
 <hr>
 ## FAQ
-<div style="text-align:center;margin-bottom:15px;" markdown="1">
-### For tutorial presenters
+<div style="display:none;margin:auto;" markdown="1">
+#### For tutorial presenters
 
 **_I'm a developer of an open source tool that I want to teach people about- how do I get involved?_**
 
@@ -88,7 +88,7 @@ Yes, please do!
 
 The distributed way this is run will make it hard for us to say this for sure, but last year's I2K meeting attracted several hundred total attendees. We will be asking attendees to indicate interest in particular tutorials ahead of time, but we will not be controlling who finally shows up on the actual day.
 
-### For tutorial attendees
+#### For tutorial attendees
 
 **_How do I sign up to attend I2K 2023?_**
 
