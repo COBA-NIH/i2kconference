@@ -14,7 +14,8 @@ Please reach out to [i2kconference@gmail.com](mailto:i2kconference@gmail.com) if
 
 
 <h2 id="calendar">Calendar View</h2>
-note - times are displayed in your local time
+Use the filter, sort, search, and timescale buttons to curate your view of the calendar. Note - times are displayed in your local time
+
 <iframe class="airtable-embed" src="https://airtable.com/embed/appE66koIe2ofWJw7/shrSx0Qs2y53i68Iq?backgroundColor=greenLight&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="650" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 <br>
