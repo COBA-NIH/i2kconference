@@ -18,9 +18,11 @@ Recordings of 2022 conference material are available on [YouTube](https://www.yo
 <hr>
 ## About
 
-Discovery in the life-sciences increasingly relies on quantitative analysis of microscopy images. The 2023 virtual event “Halfway to I2K”, to be held from October 17th-19th, will therefore feature in-depth interactive workshops covering state-of-the-art open-source solutions for biological image reconstruction and analysis. It will be an event to learn about and discuss forward looking strategies for dealing with the ever-increasing amount of large and content rich microscopy imagery.
+Discovery in the life-sciences increasingly relies on quantitative analysis of microscopy images. The 2023 virtual event “Halfway to I2K”, to be held from October 17th-19th, will therefore feature in-depth interactive workshops covering state-of-the-art open-source solutions for biological image reconstruction and analysis. It will be an event to learn about and discuss forward looking strategies for dealing with the ever-increasing amount of large and content rich microscopy imagery. 
 
 As all major open-source platforms for bioimage analysis will be represented including many in the [image.sc forum](https://forum.image.sc/), this will be a great opportunity to learn how to use the best software tools for your research and how to get involved in their development! We will have an exciting range of developers and adopters in the field of computational image analysis participating in the workshop, both as tutors and participants.
+
+The event is called "Halfway to I2K" since it is between I2K 2022 and I2K 2024, which will be happening in Fall 2024 at Human Technopole in Milan, Italy.  The intention is for the community to meet every 2 years in-person, with a virtual "Halfway to I2K" in between.
 
 If you have questions please contact us at [i2kconference@gmail.com](mailto:i2kconference@gmail.com)
 
