@@ -58,7 +58,7 @@ Helpful “Tips & Tricks” for [Zoom Events](https://docs.google.com/document/d
 
 <hr>
 ## FAQ
-<div style="display:none;margin:auto;" markdown="1">
+<div style="font-size:14px;" markdown="1">
 #### For tutorial presenters
 
 **_I'm a developer of an open source tool that I want to teach people about- how do I get involved?_**
