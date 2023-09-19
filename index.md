@@ -40,7 +40,7 @@ Full Program: [Workshops](https://i2kconference.org/workshops)
 <br>
 -->
 <div style="font-size:14px;font-weight:bold;" markdown="1">
-Helpful “Tips & Tricks” for [Zoom Events](https://docs.google.com/document/d/1YNrXEx4sk5I3zdlUiREXE1sMBihcQkuVbTa-_a7bVDg/edit?usp=sharing)
+Helpful “Tips & Tricks” for [Zoom Events](https://docs.google.com/document/d/1YNrXEx4sk5I3zdlUiREXE1sMBihcQkuVbTa-_a7bVDg/preview)
 <br>
 </div>
 <!-- if we have a PNG program for the main page, it goes here, otherwise, keep this hidden
