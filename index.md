@@ -8,6 +8,8 @@ layout: default
 
 <br>
 
+[Registration Now Open](https://tinyurl.com/I2K-2023-Zoom)
+
 Recordings of 2022 conference material are available on [YouTube](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
 <!-- if we have a Pre-Event Checklist, it will go here
 <br>
