@@ -10,7 +10,7 @@ layout: default
 
 [Registration Now Open](https://tinyurl.com/I2K-2023-Zoom)
 
-[Submit a Workshop by October 1](https://airtable.com/appE66koIe2ofWJw7/shr2DZI2uwCyw4taP)
+[Submit a Workshop by October 6](https://airtable.com/appE66koIe2ofWJw7/shr2DZI2uwCyw4taP)
 
 Recordings of 2022 conference material are available on [YouTube](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
 <!-- if we have a Pre-Event Checklist, it will go here
