@@ -31,9 +31,10 @@ The event is called "Halfway to I2K" since it is between I2K 2022 and I2K 2024, 
 If you have questions please contact us at [i2kconference@gmail.com](mailto:i2kconference@gmail.com)
 
 <hr>
+
 ## Program
 
-The program for I2K 2023 consists of [workshops](https://i2kconference.org/workshops) that are scheduled asynchronously around the globe during the 3 days of the event.  In some cases, pre-recorded workshops will be made available before the event, and links will be found [here](https://i2kconference.org/workshops), as well as on the [I2K YouTube Channel](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
+The program for I2K 2023 consists of live [workshops](https://i2kconference.org/workshops) from presenters around the globe during the 3 days of the event. See [here](https://i2kconference.org/workshops) for the schedule. In some cases, pre-recorded workshops will be made available before the event, and links will be found [here](https://i2kconference.org/workshops), as well as on the [I2K YouTube Channel](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
 <br>
 <div style="font-size:18px;font-weight:bold;" markdown="1">
 Full Program: [Workshops](https://i2kconference.org/workshops)
