@@ -7,8 +7,10 @@ layout: airtable
 
 Workshops are being held per the organizer's preferences over the course of October 17-19th, 2023. Please see the <a href="#calendar">calendar view</a> below for specific workshop times, and the <a href="#table">table view</a> for workshop details.
 
-Use this form to submit your own workshop by October 6 [here!](https://airtable.com/appE66koIe2ofWJw7/shr2DZI2uwCyw4taP)
-Registration details coming mid-September.
+<!--- Use this form to submit your own workshop by October 6 [here!](https://airtable.com/appE66koIe2ofWJw7/shr2DZI2uwCyw4taP)
+Registration details coming mid-September.--->
+
+2023 workshop recordings are now available on [YouTube](https://www.youtube.com/playlist?list=PLdA9Vgd1gxTbxX2ETMt3tFICL0DbyqFhb)
 
 Please reach out to [i2kconference@gmail.com](mailto:i2kconference@gmail.com) if you have any questions.
 
