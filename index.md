@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div style="display:none"><h1> 2023 Conference</h1></div>
+<div style="display:none"><h1> 2024 Conference</h1></div>
 
-![I2K Banner Image](/assets/images/Halfway to I2K Flyer.png)
+![I2K Banner Image](/assets/images/2024Flyer.png)
 
 <br>
 
@@ -12,9 +12,9 @@ layout: default
 
 [Submit a Workshop by October 6](https://airtable.com/appE66koIe2ofWJw7/shr2DZI2uwCyw4taP)-->
 
-2023 Workshops now available on [YouTube](https://www.youtube.com/playlist?list=PLdA9Vgd1gxTbxX2ETMt3tFICL0DbyqFhb)
+<!-- 2023 Workshops now available on [YouTube](https://www.youtube.com/playlist?list=PLdA9Vgd1gxTbxX2ETMt3tFICL0DbyqFhb)
 
-Recordings of 2022 conference material are available on [YouTube](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
+Recordings of 2022 conference material are available on [YouTube](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg). -->
 <!-- if we have a Pre-Event Checklist, it will go here
 <br>
 <a href="https://tinyurl.com/I2K-2023-PrepChecklist">Pre-Event Checklist</a>
@@ -24,11 +24,9 @@ Recordings of 2022 conference material are available on [YouTube](https://www.yo
 <hr>
 ## About
 
-Discovery in the life-sciences increasingly relies on quantitative analysis of microscopy images. The 2023 virtual event “Halfway to I2K”, to be held from October 17th-19th, will therefore feature in-depth interactive workshops covering state-of-the-art open-source solutions for biological image reconstruction and analysis. It will be an event to learn about and discuss forward looking strategies for dealing with the ever-increasing amount of large and content rich microscopy imagery. 
+Discovery in the life-sciences increasingly relies on quantitative analysis of microscopy images. The 2024 I2K conference, to be held from October 23th-25th in Milan, Italy, will therefore feature in-depth interactive workshops covering state-of-the-art open-source solutions for biological image reconstruction and analysis. It will be an event to learn about and discuss forward looking strategies for dealing with the ever-increasing amount of large and content rich microscopy imagery. 
 
 As all major open-source platforms for bioimage analysis will be represented including many in the [image.sc forum](https://forum.image.sc/), this will be a great opportunity to learn how to use the best software tools for your research and how to get involved in their development! We will have an exciting range of developers and adopters in the field of computational image analysis participating in the workshop, both as tutors and participants.
-
-The event is called "Halfway to I2K" since it is between I2K 2022 and I2K 2024, which will be happening in Fall 2024 at Human Technopole in Milan, Italy.  The intention is for the community to meet every 2 years in-person, with a virtual "Halfway to I2K" in between.
 
 If you have questions please contact us at [i2kconference@gmail.com](mailto:i2kconference@gmail.com)
 
@@ -36,7 +34,7 @@ If you have questions please contact us at [i2kconference@gmail.com](mailto:i2kc
 
 ## Program
 
-The program for I2K 2023 consists of live [workshops](https://i2kconference.org/workshops) from presenters around the globe during the 3 days of the event. See [here](https://i2kconference.org/workshops) for the schedule. In some cases, pre-recorded workshops will be made available before the event, and links will be found [here](https://i2kconference.org/workshops), as well as on the [I2K YouTube Channel](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
+The program for I2K 2024 consists of live [workshops](https://i2kconference.org/workshops) from presenters around the globe during the 3 days of the event. See [here](https://i2kconference.org/workshops) for the schedule. In some cases, pre-recorded workshops will be made available before the event, and links will be found [here](https://i2kconference.org/workshops), as well as on the [I2K YouTube Channel](https://www.youtube.com/channel/UCMBPBsR9WmzgefQWEyxfomg).
 <br>
 <div style="font-size:18px;font-weight:bold;" markdown="1">
 Full Program: [Workshops](https://i2kconference.org/workshops)
