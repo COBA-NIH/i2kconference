@@ -20,7 +20,7 @@ Recordings of 2022 conference material are available on [YouTube](https://www.yo
 <a href="https://tinyurl.com/I2K-2023-PrepChecklist">Pre-Event Checklist</a>
 <br>
 <br>
--->
+--> 
 <hr>
 ## About
 
