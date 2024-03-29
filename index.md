@@ -28,7 +28,22 @@ Discovery in the life-sciences increasingly relies on quantitative analysis of m
 
 As all major open-source platforms for bioimage analysis will be represented including many in the [image.sc forum](https://forum.image.sc/), this will be a great opportunity to learn how to use the best software tools for your research and how to get involved in their development! We will have an exciting range of developers and adopters in the field of computational image analysis participating in the workshop, both as tutors and participants.
 
-**Stay tuned for registration and abstracts submission!**
+**Important Dates** 
+
+- Workshop submission deadline: 
+<b style="color: #027cbd;">15 May 2024</b>
+ 
+- Workshop notification:
+<b style="color: #027cbd;">3 June 2024</b>
+ 
+- Abstract submission deadline:
+<b style="color: #027cbd;">31 July 2024</b>
+ 
+- Poster/Oral notification:
+<b style="color: #027cbd;">19 August 2024</b>
+ 
+Please note that, in order to secure your seat at the conference, <span style="text-decoration:underline">you must register on the event webpage and pay the participation fee by August 31, 2024</span>.
+
 
 - [I2K page at Human Technopole](https://humantechnopole.it/en/trainings/i2k-from-images-to-knowledge-2024/)
 - [How to sponsor I2k](https://humantechnopole.it/en/sponsorships/i2k-from-images-to-knowledge-conference-2024/)
