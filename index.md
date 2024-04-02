@@ -58,6 +58,7 @@ If you have questions please contact us at [training@fht.org](mailto:training@fh
 Jianxu Chen, <i>ISAS, Leibnitz Institute</i><br>
 Beth Cimini, <i>Broad Institute of MIT</i><br>
 Joran Deschamps, <i>Human Technopole</i><br>
+Florian Jug, <i>Human Technopole</i><br>
 Anna Kreshuk, <i>European Molecular Biology Laboratory</i><br>
 Florian Levet, <i>University of Bordeaux</i><br>
 Stephan Saalfeld, <i>HHMI Janelia</i><br>
