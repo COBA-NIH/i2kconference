@@ -24,9 +24,13 @@ Recordings of 2022 conference material are available on [YouTube](https://www.yo
 <hr>
 ## About
 
-Discovery in the life-sciences increasingly relies on quantitative analysis of microscopy images. The 2024 I2K conference, to be held from **October 23th-25th** at the [Human Technopole](https://humantechnopole.it/en/) in **Milan, Italy**, will therefore feature in-depth interactive workshops covering state-of-the-art open-source solutions for biological image reconstruction and analysis. It will be an event to learn about and discuss forward looking strategies for dealing with the ever-increasing amount of large and content rich microscopy imagery. 
+The 2024 I2K conference, happening **October 23-25** at the [Human Technopole](https://humantechnopole.it/en/) in **Milan, Italy**, is a key meeting point for anyone passionate about the intersection of life sciences and quantitative image analysis. 
 
-As all major open-source platforms for bioimage analysis will be represented including many in the [image.sc forum](https://forum.image.sc/), this will be a great opportunity to learn how to use the best software tools for your research and how to get involved in their development! We will have an exciting range of developers and adopters in the field of computational image analysis participating in the workshop, both as tutors and participants.
+This year, we are excited to present a program dense of insightful talks from leading voices in the field, alongside selected presentations from your submitted abstracts. Additionally, the conference will offer hands-on workshops focused on state-of-the-art open-source tools for working with and analyzing scientific image data. It is an ideal opportunity to exchange ideas and discover innovative approaches for managing the growing volume of detailed microscopy images. Looking forward to seeing you there!
+
+
+Please note that to secure your seat at the conference, <span style="text-decoration:underline">you must register on the event webpage when registrations will be open</span>! More information on the registration [fees](https://humantechnopole.it/en/trainings/i2k-from-images-to-knowledge-2024/) here. Registration will open shortly.
+
 
 **Stay tuned for the abstract submission and registration opening!**
 
@@ -44,8 +48,7 @@ As all major open-source platforms for bioimage analysis will be represented inc
 - Poster/Oral notification:
 <b style="color: #027cbd;">19 August 2024</b>
  
-Please note that, in order to secure your seat at the conference, <span style="text-decoration:underline">you must register on the event webpage and pay the participation fee by August 31, 2024</span>.
-
+**Links**
 
 - [I2K page at Human Technopole](https://humantechnopole.it/en/trainings/i2k-from-images-to-knowledge-2024/)
 - [How to sponsor I2k](https://humantechnopole.it/en/sponsorships/i2k-from-images-to-knowledge-conference-2024/)
@@ -54,7 +57,8 @@ If you have questions please contact us at [training@fht.org](mailto:training@fh
 
 <hr>
 ## Organizers
-##### 2024 I2K Organizing Scientific Committee:
+##### Organizing Scientific Committee:
+
 Jianxu Chen, <i>ISAS, Leibnitz Institute</i><br>
 Beth Cimini, <i>Broad Institute of MIT</i><br>
 Joran Deschamps, <i>Human Technopole</i><br>
@@ -64,10 +68,33 @@ Florian Levet, <i>University of Bordeaux</i><br>
 Stephan Saalfeld, <i>HHMI Janelia</i><br>
 Aubrey Weigel, <i>HHMI Janelia</i><br>
 
+##### Scientific Program and Workshop Organising Committees:
+
+Pete Bankhead, *University of Edinburgh*<br>
+Esti Gomez de Mariscal, *Instituto Gulbenkian de Ciência*<br>
+Kevin Elicieri, *University of Wisconsin-Madison*<br>
+Philipp Erdmann, *Human Technopole*<br>
+Elnaz Fazeli, *University of Helsinki*<br>
+Robert Haase, *University of Leipzig*<br>
+Khaled  Kheairy, *St. Jude Children's Research Hospital*<br>
+Dagmar Kainmueller, *Max Delbrück Center for Molecular Medicine*<br>
+Bronwyn Lucas, *University of California, Berkeley*<br>
+Thomas Pengo, *University of Minnesota*<br>
+Stephan Preibisch, *HHMI Janelia*<br>
+Christian Tischer, *Europen Molecular Biology Laboratory*<br>
+Pavel Tomancak, *Max Planck Institute of Molecular Cell Biology and Genetics*<br>
+Virginie Uhlmann, *BioVisionCenter, University of Zurich*<br>
+Laura Wiggins, *University of Sheffield*<br>
+
 
 <hr>
 ## Sponsors
 <div style="text-align:center;margin-bottom:15px;" markdown="1">
+  <a href="https://humantechnopole.it/en/"><img src="assets/images/HT_logo.png" alt="Human Technopole" width=250></a> [
+  <br>
+  Human Technopole (HT)](https://humantechnopole.it/en/)
+  <br>
+  <br>  
   <a href="https://www.bioimagingnorthamerica.org/"><img src="assets/images/bina-logo.png" alt="Bioimaging North America"></a> [
   <br>
   BioImaging North America (BINA)](https://www.bioimagingna.org/)
