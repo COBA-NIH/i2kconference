@@ -134,3 +134,8 @@ Questions about I2K? Please contact us at: [training@fht.org](mailto:training@fh
 - [I2K 2022 virtual conference](https://2022.i2kconference.org/)
 - [I2K 2020 virtual conference](https://www.janelia.org/you-janelia/conferences/from-images-to-knowledge-with-imagej-friends)
 - [I2K 2018 conference at EMBL, Heidelberg](https://www.embl.org/about/info/course-and-conference-office/events/imj18-01/)
+
+<hr>
+## Previous conference materials
+- [I2K 2022 and 2023 videos - YouTube](https://www.youtube.com/@I2KConference/playlists)
+- [I2K 2020 videos - YouTube](https://www.youtube.com/watch?v=GB4Eu8C52-4&list=PLwpjUlOJCLFeo56tWUYZF7OMHmPYzm8-W)
