@@ -26,6 +26,8 @@ Recordings of 2022 conference material are available on [YouTube](https://www.yo
 
 The 2024 I2K conference, happening **October 23-25** at the [Human Technopole](https://humantechnopole.it/en/) in **Milan, Italy**, is a key meeting point for anyone passionate about the intersection of life sciences and quantitative image analysis. 
 
+It could be worse.
+
 This year, we are excited to present a program dense of insightful talks from leading voices in the field, alongside selected presentations from your submitted abstracts. Additionally, the conference will offer hands-on workshops focused on state-of-the-art open-source tools for working with and analyzing scientific image data. It is an ideal opportunity to exchange ideas and discover innovative approaches for managing the growing volume of detailed microscopy images. Looking forward to seeing you there!
 
 Please note that to secure your seat at the conference, <span style="text-decoration:underline">you must register on the event webpage when registrations will be open</span>.
