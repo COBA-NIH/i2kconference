@@ -24,6 +24,20 @@ To use the Leap day theme:
     gem "github-pages", group: :jekyll_plugins
     ```
 
+## Building the site locally
+
+Run once the following:
+
+```bash
+bundle install
+```
+
+Then, each time, to serve the website:
+
+```bash
+bundle exec jekyll serve
+```
+
 ## Customizing
 
 ### Configuration variables
