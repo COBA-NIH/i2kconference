@@ -51,7 +51,7 @@ Please note that to secure your seat at the conference, <span style="text-decora
 - Workshop submission deadline: 22 May 2024
  
 - Workshop notification:
-<b style="color: #027cbd;">3 June 2024</b>
+<b style="color: #027cbd;">late June 2024</b>
  
 - [Abstract submission](https://docs.google.com/forms/d/e/1FAIpQLSd10W21Wn-EHSMzelYgKmPrRoPVzXstTNFoGnJOr3kl4LkfGw/viewform) deadline:
 <b style="color: #027cbd;">31 July 2024</b>
