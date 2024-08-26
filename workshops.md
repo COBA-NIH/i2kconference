@@ -4,7 +4,7 @@ layout: airtable
 
 <div style="max-width:800px;margin:175px auto 0px auto;padding:20px;" markdown="1">
 
-![Virtual I2K Banner Image](/assets/images/VirtualI2K2024Flyer.png)
+<img src="assets/images/VirtualI2K2024Flyer.png" alt="Virtual I2K 2024" width=150>
 
 <h1>Workshops</h1>
 
@@ -23,10 +23,6 @@ Use the filter, sort, search, and timescale buttons to curate your view of the c
 
 Note - times are displayed in your local time
 
-<iframe class="airtable-embed" src=https://airtable.com/embed/appZL2v7JOpcEtqUN/shrI2uC6CA8ulaFrj?viewControls=on frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/appE66koIe2ofWJw7/shrSx0Qs2y53i68Iq?backgroundColor=greenLight&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="650" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
 <iframe class="airtable-embed" src="https://airtable.com/embed/appZL2v7JOpcEtqUN/shrI2uC6CA8ulaFrj?backgroundColor=greenLight&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="650" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 <br>
@@ -36,7 +32,7 @@ Note - times are displayed in your local time
 <h2 id="table">Table View</h2>
 Each record can be viewed in full by clicking on the expansion arrows in the first cell in the far-left column.  The spreadsheet below can also be downloaded; however, the data is continually being updated so check here for the current information.
 
-<iframe class="airtable-embed" src=https://airtable.com/embed/appZL2v7JOpcEtqUN/shrPeCcl9c80HbpXm?viewControls=on frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appZL2v7JOpcEtqUN/shrPeCcl9c80HbpXm?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 </div>
 
