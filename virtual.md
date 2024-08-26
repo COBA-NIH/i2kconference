@@ -24,11 +24,11 @@ If you have questions please contact us at i2kconference@gmail.com
 
 Submit a workshop to Virtual I2K using [this form](https://airtable.com/appZL2v7JOpcEtqUN/shrREBlIImTkizb6s) ([https://airtable.com/appZL2v7JOpcEtqUN/shrREBlIImTkizb6s](https://airtable.com/appZL2v7JOpcEtqUN/shrREBlIImTkizb6s)) with your proposed workshop details by **Wednesday, October 9th, 2024**. These tutorials will be fully online and asynchronous with a focus on using and developing open source image analysis platforms/tools.  In the form you will be asked to select the day and time you wish to present your workshop, as well as the planned duration.  Workshops will be accepted on a rolling basis.
 
-## **The program for Virtual I2K 2024 consists of live [virtual workshops](https://i2kconference.org/workshops) from presenters around the globe during the 3 days of the event. See [here](https://i2kconference.org/workshops) for the schedule.** 
+**The program for Virtual I2K 2024 consists of live [virtual workshops](https://i2kconference.org/workshops) from presenters around the globe during the 3 days of the event. See [here](https://i2kconference.org/workshops) for the schedule.** 
 
-## **Full Program:** [Virtual Workshops](https://i2kconference.org/workshops)
+**Full Program:** [Virtual Workshops](https://i2kconference.org/workshops)
 
-## **Helpful “Tips & Tricks” for** [Zoom Events](https://docs.google.com/document/d/1YNrXEx4sk5I3zdlUiREXE1sMBihcQkuVbTa-\_a7bVDg/preview)
+**Helpful “Tips & Tricks” for** [Zoom Events](https://docs.google.com/document/d/1YNrXEx4sk5I3zdlUiREXE1sMBihcQkuVbTa-\_a7bVDg/preview)
 
 
 ## **FAQ**
@@ -112,11 +112,11 @@ It won’t be required, but will definitely help the tutorial presenters plan, s
   [BioImaging North America (BINA)](https://www.bioimagingna.org/)
   <br>
 
-  <a href="https://openbioimageanalysis.org/"><img src="assets/images/COBA-logo_600px.png" alt="Center for Open Bioimage Analysis"></a> 
+  <a href="https://openbioimageanalysis.org/"><img src="assets/images/COBA-logo_600px.png" alt="Center for Open Bioimage Analysis" width=50></a> 
   [Center for Open Bioimage Analysis (COBA)](https://openbioimageanalysis.org/)
   <br>
 
-  <a href="https://www.globias.org/"><img src="assets/images/GloBIAS-colors.png" alt="	Global BioImage Analysts' Society"></a> 
+  <a href="https://www.globias.org/"><img src="assets/images/GloBIAS-colors.png" alt="	Global BioImage Analysts' Society" width=50></a> 
   [	Global BioImage Analysts' Society (GloBIAS)](https://www.globias.org/)
 
 ---
