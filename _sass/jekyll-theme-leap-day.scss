@@ -294,32 +294,8 @@ header {
 
   .fork2 {
     position: fixed;
-    left: 50%;
+    left: 10%;
     margin-left: 0 px;
-    /* -325px original */
-    padding: 10px 12px;
-    margin-top: 6px;
-    line-height: 14px;
-    font-size: 14px;
-    background-color: #FFE788;
-  }
-
-  .fork3 {
-    position: fixed;
-    left: 50%;
-    margin-left: -1 px;
-    // margin-left: -210px;
-    padding: 10px 12px;
-    margin-top: 6px;
-    line-height: 14px;
-    font-size: 14px;
-    background-color: #FFE788;
-  }
-
-  .fork {
-    position: fixed;
-    left: 50%;
-    margin-left: -400px;
     /* -325px original */
     padding: 10px 12px;
     margin-top: 6px;
@@ -344,6 +320,19 @@ header {
     display: inline-block;
     text-align: center;
   }
+  .fork3 {
+    position: fixed;
+    left: 20%;
+    margin-left: -1 px;
+    // margin-left: -210px;
+    padding: 10px 12px;
+    margin-top: 6px;
+    line-height: 14px;
+    font-size: 14px;
+    background-color: #FFE788;
+  }
+
+
   .downloads {
     float: right;
     margin: 0 350px 0 100px;
