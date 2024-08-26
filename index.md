@@ -31,7 +31,7 @@ The 2024 I2K conference, happening **October 23-25** at the [Human Technopole](h
 
 This year, we are excited to present a program dense of insightful talks from leading voices in the field, alongside selected presentations from your submitted abstracts. Additionally, the conference will offer hands-on workshops focused on state-of-the-art open-source tools for working with and analyzing scientific image data. It is an ideal opportunity to exchange ideas and discover innovative approaches for managing the growing volume of detailed microscopy images. Looking forward to seeing you there!
 
-Please note that to secure your seat at the conference, <span style="text-decoration:underline">you must register on the event webpage when registrations will be open</span>.
+Please note that to secure your seat at the conference, <a href="https://events.humantechnopole.it/event/1/"><span style="text-decoration:underline">you must register on the event webpage</span></a>.
 
 
 **Registration fee** 
@@ -43,26 +43,23 @@ Please note that to secure your seat at the conference, <span style="text-decora
 - Industry/Commercial: 750 €
 
 
- <span style="text-decoration:underline">The registration deadline will be close to the notification for abstracts.</span>
-
 
 **Important Dates** 
 
 - Workshop submission deadline: 22 May 2024
  
-- Workshop notification:
-<b style="color: #027cbd;">late June 2024</b>
+- Workshop notification: late June 2024
  
-- [Abstract submission](https://docs.google.com/forms/d/e/1FAIpQLSd10W21Wn-EHSMzelYgKmPrRoPVzXstTNFoGnJOr3kl4LkfGw/viewform) deadline:
-<b style="color: #027cbd;">31 July 2024</b>
+- Abstract submission deadline: 31 July 2024
  
 - Poster/Oral notification:
-<b style="color: #027cbd;">19 August 2024</b>
+<b style="color: #027cbd;">Eraly September 2024</b>
  
 **Links**
 
 - [I2K page at Human Technopole](https://humantechnopole.it/en/trainings/i2k-from-images-to-knowledge-2024/)
 - [How to sponsor I2k](https://humantechnopole.it/en/sponsorships/i2k-from-images-to-knowledge-conference-2024/)
+- [Registration](https://events.humantechnopole.it/event/1/)
 
 If you have questions please contact us at [training@fht.org](mailto:training@fht.org)
 
