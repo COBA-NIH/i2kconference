@@ -14,7 +14,7 @@ Discovery in the life-sciences increasingly relies on quantitative analysis of m
 
 As all major open-source platforms for bioimage analysis will be represented including many in the [image.sc forum](https://forum.image.sc/), this will be a great opportunity to learn how to use the best software tools for your research and how to get involved in their development\! We will have an exciting range of developers and adopters in the field of computational image analysis participating in the workshop, both as tutors and participants.
 
-The event is called “Virutal” since it is the virtual counterpart to the in-person I2K 2024, which is October 23-25 at Human Technopole in Milan, Italy. The intention is for the community to meet every 2 years in-person, with a virtual component every year, either Virtual I2K the year of the in-person, or “Halfway to I2K” on the years in-between the in-person meetings.
+The event is called “Virtual” since it is the virtual counterpart to the in-person I2K 2024, which is October 23-25 at Human Technopole in Milan, Italy. The intention is for the community to meet every 2 years in-person, with a virtual component every year, either Virtual I2K the year of the in-person, or “Halfway to I2K” on the years in-between the in-person meetings.
 
 If you have questions please contact us at i2kconference@gmail.com
 
