@@ -31,7 +31,7 @@ This year, we are excited to present a program dense of insightful talks from le
 
 Please note that to secure your seat at the conference, <a href="https://events.humantechnopole.it/event/1/"><span style="text-decoration:underline">you must register on the event webpage</span></a>.
 
-We are also delighted to announce an online event taking place on October 28th-30th following last year's successful "HalfwayToI2K" - this will feature free tutorials on open-source tools from experts around the globe! Please see the [Workshop page](https://www.i2kconference.org/workshops) for more information.
+We are also delighted to announce an online event taking place on October 28th-30th following last year's successful "HalfwayToI2K" - this will feature free tutorials on open-source tools from experts around the globe! Please see the [Virtual event page](https://www.i2kconference.org/virtual) for more information.
 
 
 
