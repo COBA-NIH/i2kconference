@@ -51,7 +51,7 @@ Please sign up via the Airtable link above\! You will be asked for a bit of demo
 
 * When you plan to host this, and how long it will be
 
-Can this be anytime on October 28-30?***
+***Can this be anytime on October 28-30?***
 
 Yes\! You can host this workshop in any time that works well for you to teach it in. We very much hope to have tutorials appropriate for all time zones\!
 
