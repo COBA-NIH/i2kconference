@@ -28,7 +28,7 @@ Submit a workshop to Virtual I2K using [this form](https://airtable.com/appZL2v7
 
 **Full Program:** [Virtual Workshops](https://i2kconference.org/workshops)
 
-**Helpful “Tips & Tricks” for** [Zoom Events](https://docs.google.com/document/d/1YNrXEx4sk5I3zdlUiREXE1sMBihcQkuVbTa-\_a7bVDg/preview)
+**Helpful “Tips & Tricks” for** [Zoom Events](https://docs.google.com/document/d/1YNrXEx4sk5I3zdlUiREXE1sMBihcQkuVbTa-_a7bVDg/preview)
 
 
 ## **FAQ**
