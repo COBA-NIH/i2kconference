@@ -33,7 +33,7 @@ Submit a workshop to Virtual I2K using [this form](https://airtable.com/appZL2v7
 
 ## **FAQ**
 
-#### **For tutorial presenters**
+### **For tutorial presenters**
 
 ***I’m a developer of an open source tool that I want to teach people about- how do I get involved?***
 
@@ -67,7 +67,7 @@ Yes, please do\!
 
 The distributed way this is run will make it hard for us to say this for sure, but last year’s I2K meeting attracted several hundred total attendees. We will be asking attendees to indicate interest in particular tutorials ahead of time, but we will not be controlling who finally shows up on the actual day.
 
-#### **For tutorial attendees**
+### **For tutorial attendees**
 
 ***How do I sign up to attend I2K 2024?***
 
