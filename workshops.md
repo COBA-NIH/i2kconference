@@ -4,7 +4,7 @@ layout: airtable
 
 <div style="max-width:800px;margin:175px auto 0px auto;padding:20px;" markdown="1">
 
-<img src="assets/images/VirtualI2K2024Flyer.png" alt="Virtual I2K 2024" width=150>
+<img src="assets/images/VirtualI2K2024Flyer.png" alt="Virtual I2K 2024" width=800>
 
 <h1>Workshops</h1>
 
