@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!-- ![][image1] -->
+![Virtual I2K Banner Image](/assets/images/VirtualI2K2024Flyer.png)
 
 # Virtual I2K 2024: Online Tutorials on Image Analysis event from October 28-30, 2024
 
