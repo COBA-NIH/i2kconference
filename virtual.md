@@ -2,11 +2,9 @@
 layout: default
 ---
 
-**2024 Virtual I2K 2024 webpage draft**
-
 <!-- ![][image1] -->
 
-Virtual I2K 2024: Online Tutorials on Image Analysis event from October 28-30, 2024
+# Virtual I2K 2024: Online Tutorials on Image Analysis event from October 28-30, 2024
 
 ## **About**
 
