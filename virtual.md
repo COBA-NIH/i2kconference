@@ -2,9 +2,11 @@
 layout: default
 ---
 
+<div style="display:none"><h1> 2024 Virtual Conference</h1></div>
+
 ![Virtual I2K Banner Image](/assets/images/VirtualI2K2024Flyer.png)
 
-# Virtual I2K 2024: Online Tutorials on Image Analysis event from October 28-30, 2024
+**Virtual I2K 2024: Online Tutorials on Image Analysis event from October 28-30, 2024**
 
 ## **About**
 

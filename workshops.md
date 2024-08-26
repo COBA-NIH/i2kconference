@@ -2,9 +2,10 @@
 layout: airtable
 ---
 
+<div style="max-width:800px;margin:175px auto 0px auto;padding:20px;" markdown="1">
+
 ![Virtual I2K Banner Image](/assets/images/VirtualI2K2024Flyer.png)
 
-<div style="max-width:800px;margin:175px auto 0px auto;padding:20px;" markdown="1">
 <h1>Workshops</h1>
 
 Workshops are being held per the organizer's preferences over the course of October 28th-30th, 2024. Please see the <a href="#calendar">calendar view</a> below for specific workshop times, and the <a href="#table">table view</a> for workshop details.
@@ -23,6 +24,10 @@ Use the filter, sort, search, and timescale buttons to curate your view of the c
 Note - times are displayed in your local time
 
 <iframe class="airtable-embed" src=https://airtable.com/embed/appZL2v7JOpcEtqUN/shrI2uC6CA8ulaFrj?viewControls=on frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appE66koIe2ofWJw7/shrSx0Qs2y53i68Iq?backgroundColor=greenLight&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="650" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appZL2v7JOpcEtqUN/shrI2uC6CA8ulaFrj?backgroundColor=greenLight&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="650" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 <br>
 <br>
