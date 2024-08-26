@@ -4,11 +4,9 @@ layout: default
 
 **2024 Virtual I2K 2024 webpage draft**
 
-![][image1]
+<!-- ![][image1] -->
 
 Virtual I2K 2024: Online Tutorials on Image Analysis event from October 28-30, 2024
-
-## 
 
 ## **About**
 
@@ -32,19 +30,16 @@ Submit a workshop to Virtual I2K using [this form](https://airtable.com/appZL2v7
 
 ## **Helpful “Tips & Tricks” for** [Zoom Events](https://docs.google.com/document/d/1YNrXEx4sk5I3zdlUiREXE1sMBihcQkuVbTa-\_a7bVDg/preview)
 
-## 
-
-## ---
 
 ## **FAQ**
 
 #### **For tutorial presenters**
 
-## ***I’m a developer of an open source tool that I want to teach people about- how do I get involved?***
+***I’m a developer of an open source tool that I want to teach people about- how do I get involved?***
 
-## Please sign up via the Airtable link above\! You will be asked for a bit of demographic information, as well as information about the workshop you plan to teach, specifically
+Please sign up via the Airtable link above\! You will be asked for a bit of demographic information, as well as information about the workshop you plan to teach, specifically
 
-* ## The title and presenter list
+* The title and presenter list
 
 * ## A brief (2-5 sentence) description of your workshop
 
