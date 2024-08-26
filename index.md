@@ -52,8 +52,10 @@ Please note that to secure your seat at the conference, <a href="https://events.
  
 - Abstract submission deadline: 31 July 2024
  
-- Poster/Oral notification:
-<b style="color: #027cbd;">Eraly September 2024</b>
+- Poster/Oral notification: 19 August 2024
+
+- Registration deadline:
+<b style="color: #027cbd;">1 September 2024</b>
  
 **Links**
 
