@@ -112,11 +112,13 @@ It won’t be required, but will definitely help the tutorial presenters plan, s
   [BioImaging North America (BINA)](https://www.bioimagingna.org/)
   <br>
 
-  <a href="https://openbioimageanalysis.org/"><img src="assets/images/COBA-logo_600px.png" alt="Center for Open Bioimage Analysis" width=50></a> 
+  <a href="https://openbioimageanalysis.org/"><img src="assets/images/COBA-logo_600px.png" alt="Center for Open Bioimage Analysis" width=150></a> 
+    <br>
   [Center for Open Bioimage Analysis (COBA)](https://openbioimageanalysis.org/)
   <br>
 
-  <a href="https://www.globias.org/"><img src="assets/images/GloBIAS-colors.png" alt="	Global BioImage Analysts' Society" width=50></a> 
+  <a href="https://www.globias.org/"><img src="assets/images/GloBIAS-colors.png" alt="	Global BioImage Analysts' Society" width=150></a> 
+    <br>
   [	Global BioImage Analysts' Society (GloBIAS)](https://www.globias.org/)
 
 ---
