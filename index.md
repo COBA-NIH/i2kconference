@@ -111,7 +111,7 @@ Laura Wiggins, *University of Sheffield*<br>
   BioImaging North America (BINA)](https://www.bioimagingna.org/)
   <br>
   <br>  
-  <a href="https://www.zeiss.com/corporate/en/home.html"><img src="assets/images/zeiss-logo-cmyk.png" alt="Zeiss"></a> [
+  <a href="https://www.zeiss.com/corporate/en/home.html"><img src="assets/images/zeiss-logo-cmyk.png" alt="Zeiss" width=125></a> [
   <br>
   Zeiss](https://www.zeiss.com/corporate/en/home.html)
   <br>
