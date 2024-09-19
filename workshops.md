@@ -12,7 +12,7 @@ Workshops are being held per the organizer's preferences over the course of Octo
 Time details will be available in early September and on a rolling basis after that.
 
 Use this form to submit your own workshop by October 9th [here!](https://airtable.com/appZL2v7JOpcEtqUN/shrREBlIImTkizb6s)
-Registration details coming at a later date.
+FREE Registration is now open for participation in the Virtual I2K 2024 event! [Click here to register](https://tinyurl.com/Virtual-I2K2024-Registration)
 
 <!--- 2024 workshop recordings are now available on [YouTube](some other link)--->
 
