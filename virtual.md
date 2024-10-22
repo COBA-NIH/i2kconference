@@ -26,8 +26,6 @@ If you have questions please contact us at i2kconference@gmail.com
 
 ## **Program**
 
-Submit a workshop to Virtual I2K using [this form](https://airtable.com/appZL2v7JOpcEtqUN/shrREBlIImTkizb6s) ([https://airtable.com/appZL2v7JOpcEtqUN/shrREBlIImTkizb6s](https://airtable.com/appZL2v7JOpcEtqUN/shrREBlIImTkizb6s)) with your proposed workshop details by **Wednesday, October 9th, 2024**. These tutorials will be fully online and asynchronous with a focus on using and developing open source image analysis platforms/tools.  In the form you will be asked to select the day and time you wish to present your workshop, as well as the planned duration.  Workshops will be accepted on a rolling basis.
-
 **The program for Virtual I2K 2024 consists of live [virtual workshops](https://i2kconference.org/workshops) from presenters around the globe during the 3 days of the event. See [here](https://i2kconference.org/workshops) for the schedule.** 
 
 **Full Program:** [Virtual Workshops](https://i2kconference.org/workshops)
@@ -43,7 +41,9 @@ Submit a workshop to Virtual I2K using [this form](https://airtable.com/appZL2v7
 
 ***I’m a developer of an open source tool that I want to teach people about- how do I get involved?***
 
-Please sign up via the Airtable link above\! You will be asked for a bit of demographic information, as well as information about the workshop you plan to teach, specifically
+While workshop submission for 2024 is now closed, here's how we do things if you want to present next year! 
+
+You will be asked for a bit of demographic information, as well as information about the workshop you plan to teach, specifically
 
 * The title and presenter list
 
@@ -77,7 +77,7 @@ The distributed way this is run will make it hard for us to say this for sure, b
 
 ***How do I sign up to attend I2K 2024?***
 
-More information on how to register will be released in September, but please do feel free to mark your calendars now\!
+[Click here to register](https://tinyurl.com/Virtual-I2K2024-Registration)
 
 ***What do I need to do to prepare?***
 
@@ -89,7 +89,7 @@ That’s really up to the creators of that tool\! The website will be updated on
 
 ***Do I need to indicate ahead of time which session(s) I plan to attend?***
 
-It won’t be required, but will definitely help the tutorial presenters plan, so once registration is live, we strongly encourage you to do so\! More instructions will be released when registration opens.
+It won’t be required, but will definitely help the tutorial presenters plan, so we strongly encourage you to do so in the zoom events platform\!
 
 ---
 
