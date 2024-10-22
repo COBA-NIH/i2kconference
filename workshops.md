@@ -9,9 +9,6 @@ layout: airtable
 <h1>Workshops</h1>
 
 Workshops are being held per the organizer's preferences over the course of October 28th-30th, 2024. Please see the <a href="#calendar">calendar view</a> below for specific workshop times, and the <a href="#table">table view</a> for workshop details.
-Time details will be available in early September and on a rolling basis after that.
-
-Use this form to submit your own workshop by October 9th [here!](https://airtable.com/appZL2v7JOpcEtqUN/shrREBlIImTkizb6s)
 
 FREE Registration is now open for participation in the Virtual I2K 2024 event! [Click here to register](https://tinyurl.com/Virtual-I2K2024-Registration)
 
