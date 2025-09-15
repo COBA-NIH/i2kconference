@@ -109,8 +109,8 @@ It won’t be required, but will definitely help the tutorial presenters plan, s
 
 ##### ***2025 Halfway to I2K Organizers:***
 
-*Alex TODO, BINA, Morgridge Institute for Research*  
-*Aditi TODO, BINA, Morgridge Institute for Research*  
+*Alex Cotten, BINA, Morgridge Institute for Research*  
+*Aditi Dhabekar, BINA, Morgridge Institute for Research*  
 *Christa Walther, GloBIAS, German BioImaging*
 
 ##### ***2025 Halfway to I2K Scientific Committee Organizer:***
