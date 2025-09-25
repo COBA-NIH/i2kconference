@@ -47,7 +47,7 @@ If you have questions please contact us at i2kconference@gmail.com
 
 ***I’m a developer of an open source tool that I want to teach people about- how do I get involved?***
 
-We'd love to have your presentation![Submit your workshop at this link](https://airtable.com/app2zpB8d82r7Ldtc/shrTcoN4uBYvFcz6X)
+We'd love to have your presentation! [Submit your workshop at this link](https://airtable.com/app2zpB8d82r7Ldtc/shrTcoN4uBYvFcz6X)
 
 You will be asked for a bit of demographic information, as well as information about the workshop you plan to teach, specifically
 
@@ -117,7 +117,8 @@ It won’t be required, but will definitely help the tutorial presenters plan, s
 
 <!---*Tereza Belinova, Institute of Science and Technology Austria (ISTA)*  --->
 *Beth Cimini, Broad Institute*  
-*Kevin Eliceiri, University of Wisconsin-Madison*  
+*Kevin Eliceiri, University of Wisconsin-Madison* 
+*Erick Ratamero, EMBL* 
 <!---*Esteban Miglietta, Broad Institute*   
 *Thomas Pengo, University of Minnesota*--->
 
