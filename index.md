@@ -109,17 +109,17 @@ It won’t be required, but will definitely help the tutorial presenters plan, s
 
 ##### ***2025 Halfway to I2K Organizers:***
 
-*Alex Cotten, BINA, Morgridge Institute for Research*  
-*Aditi Dhabekar, BINA, Morgridge Institute for Research*  
-*Christa Walther, GloBIAS, German BioImaging*
+* *Alex Cotten, BINA, Morgridge Institute for Research*  
+* *Aditi Dhabekar, BINA, Morgridge Institute for Research*  
+* *Christa Walther, GloBIAS, German BioImaging*
 
 ##### ***2025 Halfway to I2K Scientific Committee Organizer:***
 
 <!---*Tereza Belinova, Institute of Science and Technology Austria (ISTA)*  --->
 
-*Beth Cimini, Broad Institute*  
-*Kevin Eliceiri, University of Wisconsin-Madison*  
-*Erick Ratamero, EMBL*  
+* *Beth Cimini, Broad Institute*  
+* *Kevin Eliceiri, University of Wisconsin-Madison*  
+* *Erick Ratamero, EMBL*  
 
 <!---*Esteban Miglietta, Broad Institute*   
 *Thomas Pengo, University of Minnesota*--->
