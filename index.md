@@ -12,9 +12,9 @@ layout: default
 
 [Want to present? Submit your workshop at this link](https://airtable.com/app2zpB8d82r7Ldtc/shrTcoN4uBYvFcz6X)
 
-<!---## **Registration now open**
+## **Registration now open**
 
-FREE Registration is now open for participation in the Virtual I2K 2024 event! [Click here to register](https://tinyurl.com/Halfway-to-I2K-2025)--->
+FREE Registration is now open for attendance at Halfway to I2K! [Click here to register](https://tinyurl.com/Halfway-to-I2K-2025) (We sold out last year!)
 
 ## **About**
 
