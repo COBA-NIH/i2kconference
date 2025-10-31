@@ -14,7 +14,7 @@ layout: default
 
 <!---## **Registration now open**
 
-FREE Registration is now open for participation in the Virtual I2K 2024 event! [Click here to register](https://tinyurl.com/Virtual-I2K2024-Registration)--->
+FREE Registration is now open for participation in the Virtual I2K 2024 event! [Click here to register](https://tinyurl.com/Halfway-to-I2K-2025)--->
 
 ## **About**
 
@@ -38,7 +38,7 @@ If you have questions please contact us at i2kconference@gmail.com
 
 **Helpful “Tips & Tricks” for** [Zoom Events](https://docs.google.com/document/d/1YNrXEx4sk5I3zdlUiREXE1sMBihcQkuVbTa-_a7bVDg/preview)
 
-<!---**Attendee Registration:** [Click here to register](https://tinyurl.com/Virtual-I2K2024-Registration)--->
+**Attendee Registration:** [Click here to register](https://tinyurl.com/Halfway-to-I2K-2025)
 
 
 ## **FAQ**
@@ -85,7 +85,7 @@ The distributed way this is run will make it hard for us to say this for sure, b
 
 ***How do I sign up to attend Halfway to I2K?***
 
-<!---[Click here to register](https://tinyurl.com/Virtual-I2K2024-Registration)--->
+[Click here to register](https://tinyurl.com/Halfway-to-I2K-2025)
 
 Keep an eye on this page - registration will open approximately one month before the event (so approximately mid-October)
 
@@ -115,14 +115,10 @@ It won’t be required, but will definitely help the tutorial presenters plan, s
 
 ##### ***2025 Halfway to I2K Scientific Committee Organizer:***
 
-<!---*Tereza Belinova, Institute of Science and Technology Austria (ISTA)*  --->
-
 * *Beth Cimini, Broad Institute*  
 * *Kevin Eliceiri, University of Wisconsin-Madison*  
 * *Erick Ratamero, EMBL*  
 
-<!---*Esteban Miglietta, Broad Institute*   
-*Thomas Pengo, University of Minnesota*--->
 
 ---
 

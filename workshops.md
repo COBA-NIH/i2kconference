@@ -12,10 +12,10 @@ Workshops are being held per the organizer's preferences over the course of Nove
 
 [Want to present? Submit your workshop at this link](https://airtable.com/app2zpB8d82r7Ldtc/shrTcoN4uBYvFcz6X)
 
-<!--- 
-FREE Registration is now open for participation in the Virtual I2K 2024 event! [Click here to register](https://tinyurl.com/Virtual-I2K2024-Registration)
 
-2024 workshop recordings are now available on [YouTube](some other link)--->
+FREE Registration is now open for Halfway to I2K 2025! [Click here to register](https://tinyurl.com/Halfway-to-I2K-2025)
+
+<!--- 2024 workshop recordings are now available on [YouTube](some other link)--->
 
 Please reach out to [i2kconference@gmail.com](mailto:i2kconference@gmail.com) if you have any questions.
 
