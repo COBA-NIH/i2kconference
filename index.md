@@ -8,9 +8,9 @@ layout: default
 
 **Halfway to I2K 2025: Free Online Tutorials on Image Analysis from November 17-19, 2025**
 
-## Workshop submission now open!
+<!--## Workshop submission now open!
 
-[Want to present? Submit your workshop at this link](https://airtable.com/app2zpB8d82r7Ldtc/shrTcoN4uBYvFcz6X)
+[Want to present? Submit your workshop at this link](https://airtable.com/app2zpB8d82r7Ldtc/shrTcoN4uBYvFcz6X)-->
 
 ## **Registration now open**
 
@@ -32,7 +32,7 @@ If you have questions please contact us at i2kconference@gmail.com
 
 ## **Program**
 
-**The program for Halfway to I2K consists of live [virtual workshops](https://i2kconference.org/workshops) from presenters around the globe during the 3 days of the event. See [here](https://i2kconference.org/workshops) for the schedule so far.** 
+**The program for Halfway to I2K consists of live [virtual workshops](https://i2kconference.org/workshops) from presenters around the globe during the 3 days of the event. See [here](https://i2kconference.org/workshops) for the final schedule.** 
 
 **Full Program:** [Virtual Workshops](https://i2kconference.org/workshops)
 
@@ -47,7 +47,9 @@ If you have questions please contact us at i2kconference@gmail.com
 
 ***I’m a developer of an open source tool that I want to teach people about- how do I get involved?***
 
-We'd love to have your presentation! [Submit your workshop at this link](https://airtable.com/app2zpB8d82r7Ldtc/shrTcoN4uBYvFcz6X)
+Unfortunately, 2025 Halfway to I2K workshop submissions are closed, but you can see the info we request to start planning your 2026 workshop(s)!
+
+<!--We'd love to have your presentation! [Submit your workshop at this link](https://airtable.com/app2zpB8d82r7Ldtc/shrTcoN4uBYvFcz6X)-->
 
 You will be asked for a bit of demographic information, as well as information about the workshop you plan to teach, specifically
 
@@ -65,6 +67,10 @@ You will be asked for a bit of demographic information, as well as information a
 
 * Your planned language of instruction
 
+***What if I'm not a developer? What if I'm just an enthusiastic tool user with knowledge to share?***
+
+You're absolutely welcome to present! I2K has had many excellent presentations from tool "enthusiasts" and "power users" - if you want to teach, we want to help you do that!
+
 ***Can this be anytime on November 17-19?***
 
 Yes\! You can host this workshop in any time that works well for you to teach it in. We very much hope to have tutorials appropriate for all time zones\!
@@ -79,7 +85,7 @@ Yes, please do\!
 
 ***How many people should I expect to show up?***
 
-The distributed way this is run will make it hard for us to say this for sure, but last year’s Virtual I2K meeting attracted several hundred total attendees. We will be asking attendees to indicate interest in particular tutorials ahead of time, but we will not be controlling who finally shows up on the actual day.
+The distributed way this is run will make it hard for us to say this for sure, but last year’s Virtual I2K meeting attracted several hundred total attendees and individual sessions had dozens to a couple of hundred live attendees. We will be asking attendees to indicate interest in particular tutorials ahead of time, but we will not be controlling who finally shows up on the actual day.
 
 ### **For tutorial attendees**
 
@@ -87,7 +93,9 @@ The distributed way this is run will make it hard for us to say this for sure, b
 
 [Click here to register](https://tinyurl.com/Halfway-to-I2K-2025)
 
-Keep an eye on this page - registration will open approximately one month before the event (so approximately mid-October)
+<!--Keep an eye on this page - registration will open approximately one month before the event (so approximately mid-October)-->
+
+Note that for the first time in 2025, we are "overselling" tickets - last year, 1,000 people "purchased" tickets, but 650 attended. This year, we are "selling" 1,200 tickets, but only the first 1,000 people who enter the Zoom event can attend. We recommend therefore joining the event early, to make sure you get in!
 
 ***What do I need to do to prepare?***
 
