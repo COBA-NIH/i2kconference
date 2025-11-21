@@ -10,11 +10,11 @@ layout: default
 
 <!--## Workshop submission now open!
 
-[Want to present? Submit your workshop at this link](https://airtable.com/app2zpB8d82r7Ldtc/shrTcoN4uBYvFcz6X)-->
+[Want to present? Submit your workshop at this link](https://airtable.com/app2zpB8d82r7Ldtc/shrTcoN4uBYvFcz6X)
 
 ## **Registration now open**
 
-FREE Registration is now open for attendance at Halfway to I2K! [Click here to register](https://tinyurl.com/Halfway-to-I2K-2025) (We sold out last year!)
+FREE Registration is now open for attendance at Halfway to I2K! [Click here to register](https://tinyurl.com/Halfway-to-I2K-2025) (We sold out last year!)-->
 
 ## **About**
 
@@ -38,7 +38,7 @@ If you have questions please contact us at i2kconference@gmail.com
 
 **Helpful “Tips & Tricks” for** [Zoom Events](https://docs.google.com/document/d/1YNrXEx4sk5I3zdlUiREXE1sMBihcQkuVbTa-_a7bVDg/preview)
 
-**Attendee Registration:** [Click here to register](https://tinyurl.com/Halfway-to-I2K-2025)
+<!--**Attendee Registration:** [Click here to register](https://tinyurl.com/Halfway-to-I2K-2025)-->
 
 
 ## **FAQ**
