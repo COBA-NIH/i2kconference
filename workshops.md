@@ -10,12 +10,14 @@ layout: airtable
 
 Workshops are being held per the organizer's preferences over the course of November 17-19, 2025. Please see the <a href="#calendar">calendar view</a> below for specific workshop times, and the <a href="#table">table view</a> for workshop details.
 
+Our [2025 YouTube playlist](https://www.youtube.com/playlist?list=PLdA9Vgd1gxTaNwGJHTMOUU_efVOq0C8jq) is now available!
+
 <!--[Want to present? Submit your workshop at this link](https://airtable.com/app2zpB8d82r7Ldtc/shrTcoN4uBYvFcz6X)
 
 
 FREE Registration is now open for Halfway to I2K 2025! [Click here to register](https://tinyurl.com/Halfway-to-I2K-2025)
 
-2024 workshop recordings are now available on [YouTube](some other link)--->
+--->
 
 Please reach out to [i2kconference@gmail.com](mailto:i2kconference@gmail.com) if you have any questions.
 

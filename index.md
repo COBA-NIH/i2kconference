@@ -24,7 +24,7 @@ As many major open-source platforms for bioimage analysis will be represented in
 
 The event is called “Halfway to I2K” since it falls between I2K 2024, held at Human Technopole in Milan, and our soon-to-be-announced 2026 event. The intention is for the community to meet every 2 years in-person, with a virtual component every year, either Virtual I2K the year of the in-person, or “Halfway to I2K” on the years in-between the in-person meetings.
 
-Want to see more about what I2K is all about? Check out the tutorials from previous events on our [YouTube channel](https://www.youtube.com/@I2KConference)!
+Want to see more about what I2K is all about? Check out the tutorials from previous events on our [YouTube channel](https://www.youtube.com/@I2KConference)! Our [2025 playlist](https://www.youtube.com/playlist?list=PLdA9Vgd1gxTaNwGJHTMOUU_efVOq0C8jq) is now available.
 
 If you have questions please contact us at i2kconference@gmail.com
 
