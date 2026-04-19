@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div style="display:none"><h1> I2KxBINA 2026"</h1></div>
+<div style="display:none"><h1>I2KxBINA 2026</h1></div>
 
 ![Virtual I2K Banner Image](/assets/images/2026Logo.png)
 
