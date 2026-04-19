@@ -2,34 +2,40 @@
 layout: default
 ---
 
-<div style="display:none"><h1> 2025 Virtual "Halfway to I2K"</h1></div>
+<div style="display:none"><h1> I2KxBINA 2026"</h1></div>
 
-![Virtual I2K Banner Image](/assets/images/2025HalfwaytoI2KFlyer.png)
+![Virtual I2K Banner Image](/assets/images/2026Logo.png)
 
-**Halfway to I2K 2025: Free Online Tutorials on Image Analysis from November 17-19, 2025**
+**I2KxBINA 2026: Cultivating the Multiscale Imaging Frontier**
 
-<!--## Workshop submission now open!
+## Presentation submissions now open!
 
-[Want to present? Submit your workshop at this link](https://airtable.com/app2zpB8d82r7Ldtc/shrTcoN4uBYvFcz6X)
+[Want to present? Submit your workshop, poster, and/or talk at this link](https://airtable.com/appPes56TahcL7EbU/pagV1C4q7BZPsivBK/form)
 
-## **Registration now open**
+<!--## **Registration now open**
 
-FREE Registration is now open for attendance at Halfway to I2K! [Click here to register](https://tinyurl.com/Halfway-to-I2K-2025) (We sold out last year!)-->
+FREE Registration is now open for attendance at Halfway to I2K! [Click here to register](https://tinyurl.com/Halfway-to-I2K-2025)-->
 
 ## **About**
 
-Discovery in the life-sciences increasingly relies on quantitative analysis of microscopy images. The 2025 FREE online event “Halfway to I2K”, to be held from November 17-19, will therefore feature in-depth interactive workshops covering state-of-the-art open-source solutions for biological image reconstruction and analysis. It will be an event to learn about and discuss forward looking strategies for dealing with the ever-increasing amount of large and content rich microscopy imagery.
+I2K brings together developers, researchers, and students from around the world working in computational image analysis. As life science studies increasingly rely on microscopy images, the ability to perform quantitative analysis on these data is a critical skill. Over the years, the I2K Conference has become a flagship event for scientists eager to explore interactive tutorials and cutting-edge open-source solutions for biological image reconstruction and analysis. This year, for the first time ever we will be joining I2K with BioImaging North America (BINA)’s annual Community Congress.
+
+I2KxBINA 2026 will build on the I2K tradition, combining scientific talks with hands-on, vendor-led workshops where participants can directly engage with the latest imaging technologies, software platforms, and analytical tools. Attendees will have the opportunity to learn new techniques, troubleshoot challenges in real time, and connect with experts from both academia and industry. These back-to-back events bring the imaging community together to share knowledge, foster collaborations, and advance the frontier of multiscale imaging.
+
+Please visit the [I2KxBINA 2026 website](https://www.bioimagingnorthamerica.org/events/i2kxbina2026/) to register for the conference!
+
+<!--Discovery in the life-sciences increasingly relies on quantitative analysis of microscopy images. The 2025 FREE online event “Halfway to I2K”, to be held from November 17-19, will therefore feature in-depth interactive workshops covering state-of-the-art open-source solutions for biological image reconstruction and analysis. It will be an event to learn about and discuss forward looking strategies for dealing with the ever-increasing amount of large and content rich microscopy imagery.
 
 As many major open-source platforms for bioimage analysis will be represented including many in the [image.sc forum](https://forum.image.sc/), this will be a great opportunity to learn how to use the best software tools for your research and how to get involved in their development\! We will have an exciting range of developers and adopters in the field of computational image analysis participating in the workshop, both as tutors and participants.
 
 The event is called “Halfway to I2K” since it falls between I2K 2024, held at Human Technopole in Milan, and our soon-to-be-announced 2026 event. The intention is for the community to meet every 2 years in-person, with a virtual component every year, either Virtual I2K the year of the in-person, or “Halfway to I2K” on the years in-between the in-person meetings.
 
-Want to see more about what I2K is all about? Check out the tutorials from previous events on our [YouTube channel](https://www.youtube.com/@I2KConference)! Our [2025 playlist](https://www.youtube.com/playlist?list=PLdA9Vgd1gxTaNwGJHTMOUU_efVOq0C8jq) is now available.
+Want to see more about what I2K is all about? Check out the tutorials from previous events on our [YouTube channel](https://www.youtube.com/@I2KConference)! Our [2025 playlist](https://www.youtube.com/playlist?list=PLdA9Vgd1gxTaNwGJHTMOUU_efVOq0C8jq) is now available.-->
 
 If you have questions please contact us at i2kconference@gmail.com
 
 ---
-
+<!--
 ## **Program**
 
 **The program for Halfway to I2K consists of live [virtual workshops](https://i2kconference.org/workshops) from presenters around the globe during the 3 days of the event. See [here](https://i2kconference.org/workshops) for the final schedule.** 
@@ -38,7 +44,7 @@ If you have questions please contact us at i2kconference@gmail.com
 
 **Helpful “Tips & Tricks” for** [Zoom Events](https://docs.google.com/document/d/1YNrXEx4sk5I3zdlUiREXE1sMBihcQkuVbTa-_a7bVDg/preview)
 
-<!--**Attendee Registration:** [Click here to register](https://tinyurl.com/Halfway-to-I2K-2025)-->
+**Attendee Registration:** [Click here to register](https://tinyurl.com/Halfway-to-I2K-2025)
 
 
 ## **FAQ**
@@ -49,7 +55,7 @@ If you have questions please contact us at i2kconference@gmail.com
 
 Unfortunately, 2025 Halfway to I2K workshop submissions are closed, but you can see the info we request to start planning your 2026 workshop(s)!
 
-<!--We'd love to have your presentation! [Submit your workshop at this link](https://airtable.com/app2zpB8d82r7Ldtc/shrTcoN4uBYvFcz6X)-->
+<!--We'd love to have your presentation! [Submit your workshop at this link](https://airtable.com/app2zpB8d82r7Ldtc/shrTcoN4uBYvFcz6X)
 
 You will be asked for a bit of demographic information, as well as information about the workshop you plan to teach, specifically
 
@@ -93,7 +99,7 @@ The distributed way this is run will make it hard for us to say this for sure, b
 
 [Click here to register](https://tinyurl.com/Halfway-to-I2K-2025)
 
-<!--Keep an eye on this page - registration will open approximately one month before the event (so approximately mid-October)-->
+<!--Keep an eye on this page - registration will open approximately one month before the event (so approximately mid-October)
 
 Note that for the first time in 2025, we are "overselling" tickets - last year, 1,000 people "purchased" tickets, but 650 attended. This year, we are "selling" 1,200 tickets, but only the first 1,000 people who enter the Zoom event can attend. We recommend therefore joining the event early, to make sure you get in!
 
@@ -105,7 +111,7 @@ This will depend on the tutorial in question\! The tutorial presenter should ind
 
 That’s really up to the creators of that tool\! The website will be updated on a rolling basis as sessions are submitted. If you can’t make the time chosen, we will be encouraging tutorial presenters to record their workshops for upload afterward.
 
-<!---If you want to see a tutorial for a specific tool, you may certainly indicate so in the comments of our announcement forum post!--->
+<!---If you want to see a tutorial for a specific tool, you may certainly indicate so in the comments of our announcement forum post!
 
 ***Do I need to indicate ahead of time which session(s) I plan to attend?***
 
@@ -144,7 +150,7 @@ It won’t be required, but will definitely help the tutorial presenters plan, s
 
   <a href="https://www.globias.org/"><img src="assets/images/GloBIAS-colors.png" alt="	Global BioImage Analysts' Society" width=150></a> 
     <br>
-  [	Global BioImage Analysts' Society (GloBIAS)](https://www.globias.org/)
+  [	Global BioImage Analysts' Society (GloBIAS)](https://www.globias.org/)-->
 
 ---
 
